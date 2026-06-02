@@ -10,8 +10,8 @@ The files are never deleted. Whatever the world did on a given day, it stays in 
 
 ## Latest Feed
 
-[2026-06-01] — 12 entries
-[feed/2026-06-01.md](feed/2026-06-01.md)
+[2026-06-02] — 11 entries
+[feed/2026-06-02.md](feed/2026-06-02.md)
 
 ## Archive
 
