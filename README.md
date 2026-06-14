@@ -1,17 +1,19 @@
 # The Feed
 
-Every day, something breaks. Usually several things. The Feed is an automated daily sweep that collects them — earthquakes, ship sinkings, disease outbreaks, infrastructure failures, political crises, unexplained phenomena — and writes them down before the news cycle buries them under something else.
+The world breaks things. This is the log.
 
-There is no analysis here. No takes. No predictions. Headlines, keywords, source, URL. Organized by category. Dated. Filed. The world is loud and large and most of what happens in it gets forgotten by morning. This is the morning record.
+The Feed runs daily. It casts a net across thirteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained — pulling in whatever the day produced: earthquakes, floods, crashes, outbreaks, conflicts, collapses, and anything else that made the wire. It collects. It organizes. It records. That's the entire job.
 
-The system runs daily. Each file is a snapshot of one UTC day, organized across thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Each entry carries a headline, a set of extracted keywords, the source name, and a direct link. Nothing is editorialized inside the data blocks. Other systems read these files. The format stays clean.
+Each file is a dated snapshot. A headline. A handful of keywords so other systems can parse what happened without reading full articles. A source. A link. The events are not ranked by importance or weighted by anything. They appear in the order the categories fall, which is the same order every day. If something happened and the search found it, it's in the file. If it didn't surface, it isn't. No editorial judgment about what matters. The wire picked it up or it didn't.
 
-The files are never deleted. Whatever the world did on a given day, it stays in the archive. That is the only policy.
+This system runs automated, daily, whether the day was quiet or not. On quiet days the categories say "nothing today" across half the list. On the other kind of days, you can feel the accumulation building from section to section — the composure in the first few entries and the absence of it by the end. The file doesn't care which kind of day it was. The file only cares that it ran.
+
+Every daily file lives in the `feed/` directory, named by collection date. They don't get edited after the fact. They don't get deleted.
 
 ## Latest Feed
 
-[2026-06-13] — 10 entries
-[feed/2026-06-13.md](feed/2026-06-13.md)
+2026-06-14 — 9 entries
+[feed/2026-06-14.md](feed/2026-06-14.md)
 
 ## Archive
 
