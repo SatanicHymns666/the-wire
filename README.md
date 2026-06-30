@@ -2,7 +2,7 @@
 
 The world breaks things. This is the log.
 
-The Feed runs daily. It casts a net across thirteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained — pulling in whatever the day produced: earthquakes, floods, crashes, outbreaks, conflicts, collapses, and anything else that made the wire. It collects. It organizes. It records. That's the entire job.
+The Feed runs daily. It casts a net across fourteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained — pulling in whatever the day produced: earthquakes, floods, crashes, outbreaks, conflicts, collapses, and anything else that made the wire. It collects. It organizes. It records. That's the entire job.
 
 Each file is a dated snapshot. A headline. A handful of keywords so other systems can parse what happened without reading full articles. A source. A link. The events are not ranked by importance or weighted by anything. They appear in the order the categories fall, which is the same order every day. If something happened and the search found it, it's in the file. If it didn't surface, it isn't. No editorial judgment about what matters. The wire picked it up or it didn't.
 
@@ -12,8 +12,8 @@ Every daily file lives in the `feed/` directory, named by collection date. They 
 
 ## Latest Feed
 
-2026-06-29 — 10 entries  
-[feed/2026-06-29.md](feed/2026-06-29.md)
+2026-06-30 — 12 entries
+[feed/2026-06-30.md](feed/2026-06-30.md)
 
 ## Archive
 
