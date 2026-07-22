@@ -12,8 +12,8 @@ Every daily file lives in the `feed/` directory, named by collection date. They 
 
 ## Latest Feed
 
-2026-07-21 — 11 entries
-[feed/2026-07-21.md](feed/2026-07-21.md)
+2026-07-22 — 9 entries
+[feed/2026-07-22.md](feed/2026-07-22.md)
 
 ## Archive
 
