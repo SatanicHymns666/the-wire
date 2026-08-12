@@ -1,17 +1,19 @@
 # The Feed
 
-The Feed is a daily automated sweep of things breaking in the world. Not opinion. Not analysis. Not recommendations. The world breaks things — land, water, sky, infrastructure, vessels, people, governments, markets, microbes — and The Feed writes it down. Every day. Every category. Without flinching, without editorializing, and without pretending any of it is surprising.
+The world breaks things. This repository writes it down.
 
-Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Each entry carries the headline, keywords extracted from the source, the outlet, and a direct link. The data is clean and parseable. Other systems read these files. The format doesn't bend for aesthetics.
+Every day, an automated system sweeps the news across thirteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. It collects what it finds. It does not filter for relevance, scale, or importance. It does not decide what matters. It records what happened and moves on.
 
-The files are organized to show what kind of day it was — not what it meant, not what should be done about it, but what happened and where it sits in the taxonomy of things that broke. A wildfire and a hospital collapse are different entries under different headers. They are not editorialized against each other. They are filed.
+Each entry carries a headline, a set of raw keywords, the source, and a link. No analysis. No context supplied from memory. No one is watching in real time and deciding what to emphasize. The system looks. The system writes. The system files.
 
-The Feed has been running daily since May 2026. It doesn't stop when news is light. It doesn't slow down when news is heavy. It runs. If a category is quiet, the file says so. If everything breaks on the same Tuesday, the file captures that too. The date on the file is the only context provided.
+The format is designed to be parsed. Other systems can read it. If you want to track what the world did to itself across a given week, the files are there. If you want to know what the sky looked like while the ground was moving, that's in there too. The categories don't compete with each other. They just sit next to each other, which is often the whole point.
+
+Runs daily. Duplicates are removed against the previous day's file. URLs either appear once or not at all. Some days are heavy. Some days are quiet. The quiet ones are not reassuring.
 
 ## Latest Feed
 
-[2026-08-11] — 18 entries
-[feed/2026-08-11.md](feed/2026-08-11.md)
+[2026-08-12] — 19 entries
+[feed/2026-08-12.md](feed/2026-08-12.md)
 
 ## Archive
 
