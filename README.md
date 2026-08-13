@@ -12,8 +12,8 @@ Runs daily. Duplicates are removed against the previous day's file. URLs either 
 
 ## Latest Feed
 
-[2026-08-12] — 19 entries
-[feed/2026-08-12.md](feed/2026-08-12.md)
+[2026-08-13] — 10 entries
+[feed/2026-08-13.md](feed/2026-08-13.md)
 
 ## Archive
 
