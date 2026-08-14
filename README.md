@@ -1,19 +1,19 @@
 # The Feed
 
-The world breaks things. This repository writes it down.
+The Feed is a daily automated sweep of whatever the world did to itself in the last twenty-four hours. It runs once a day. It does not explain. It does not predict. It collects.
 
-Every day, an automated system sweeps the news across thirteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. It collects what it finds. It does not filter for relevance, scale, or importance. It does not decide what matters. It records what happened and moves on.
+Every file is a dated snapshot — organized by category, with headlines, keywords, source, and links. Thirteen categories cover the range: geological, meteorological, hydrological, infrastructural, aviation, maritime, violence, public spaces, political, economic, health, space, and unexplained. The data inside each category is clean and parseable. Headlines, keywords, a source, a URL. No opinion inside the data blocks.
 
-Each entry carries a headline, a set of raw keywords, the source, and a link. No analysis. No context supplied from memory. No one is watching in real time and deciding what to emphasize. The system looks. The system writes. The system files.
+Between categories there are notes. These are not analysis. They are the reaction of the filing system as the day's entries accumulate. The longer the column, the heavier the weight. The heavier the weight, the less composed the notes become. By the end some days it holds together fine. Other days it doesn't.
 
-The format is designed to be parsed. Other systems can read it. If you want to track what the world did to itself across a given week, the files are there. If you want to know what the sky looked like while the ground was moving, that's in there too. The categories don't compete with each other. They just sit next to each other, which is often the whole point.
+The system runs whether or not anything happened. Empty categories get filed as empty. Silence is documented the same as catastrophe. There is no editorial threshold. If it happened and it was findable, it gets written down. The accumulation is the record.
 
-Runs daily. Duplicates are removed against the previous day's file. URLs either appear once or not at all. Some days are heavy. Some days are quiet. The quiet ones are not reassuring.
+Daily feeds are stored in the `feed/` directory, dated by collection day. They are never deleted.
 
 ## Latest Feed
 
-[2026-08-13] — 10 entries
-[feed/2026-08-13.md](feed/2026-08-13.md)
+[2026-08-14] — 9 entries
+[feed/2026-08-14.md](feed/2026-08-14.md)
 
 ## Archive
 
