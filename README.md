@@ -12,8 +12,8 @@ Daily feeds are stored in the `feed/` directory, dated by collection day. They a
 
 ## Latest Feed
 
-[2026-08-15] — 7 entries
-[feed/2026-08-15.md](feed/2026-08-15.md)
+[2026-08-16] — 11 entries
+[feed/2026-08-16.md](feed/2026-08-16.md)
 
 ## Archive
 
