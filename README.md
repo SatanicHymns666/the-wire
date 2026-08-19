@@ -10,8 +10,8 @@ The data inside each category is clean and structured. Parseable. Other systems 
 
 ## Latest Feed
 
-[2026-08-18] — 9 entries
-[feed/2026-08-18.md](feed/2026-08-18.md)
+[2026-08-19] — 7 entries
+[feed/2026-08-19.md](feed/2026-08-19.md)
 
 ## Archive
 
