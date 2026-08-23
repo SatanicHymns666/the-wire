@@ -1,16 +1,17 @@
 # The Feed
 
-Every day the world does things. Buildings fall. Volcanoes erupt. Water poisons people. Governments make threats. The Feed collects all of it.
+Every day, the world breaks things. This is where that gets written down.
 
-This is an automated daily sweep across thirteen categories of incident: geological, meteorological, environmental, infrastructural, aviation, maritime, violent, civic, political, economic, health, astronomical, and unexplained. Each run searches for current events in each category, extracts the headlines, pulls the keywords, records the source and the link, and drops them into a dated file. No commentary on the data itself. No editorializing. Just the record.
+The Feed is an automated daily sweep of global news across thirteen categories: seismic and volcanic activity, flooding and water systems, severe weather and wildfire, infrastructure failure, aviation, maritime disasters, violence, crowd events, political crises, economic shocks, disease outbreaks, space events, and unexplained phenomena. It runs once a day. It does not editorialize. It does not filter for relevance. It does not decide what matters. That is not its job.
 
-The categories are structured for machine readability. Other systems can parse the format — headline, keywords, source, URL — without interpretation. The voice lives elsewhere: in the space between sections, in the mood intro, in the readme you're reading now. It's not analysis. It's temperature. The world is running hot or cold or sick, and this is how you tell.
+Each file is a dated snapshot. Headlines, keywords, source, URL — clean and parseable, one entry per line. The files are organized by category so other systems can read them without having to guess at the structure. The only opinion in any of these files lives between the categories, and even that is just the sound of a clerk losing composure on a heavy day. The world provides the content. The Feed provides the receipt.
 
-Nothing is filtered for relevance. Nothing is filtered for comfort. If it happened today and something broke, someone died, something flew into the earth from space, or something caught fire — it's in here. The archive goes back to the beginning and will not be deleted. Every file is a dated snapshot. Every snapshot is a day the world filed.
+The archive goes back to late May 2026. It is never deleted. A quiet day is in here. A catastrophic day is in here. They look different. The difference is the point.
 
 ## Latest Feed
 
-[2026-08-22](feed/2026-08-22.md) — 11 entries
+[2026-08-23] — 6 entries
+[feed/2026-08-23.md](feed/2026-08-23.md)
 
 ## Archive
 
