@@ -1,17 +1,17 @@
 # The Feed
 
-The world breaks things. Every day. This is where that gets written down.
+The Feed is a daily automated sweep of what the world is doing to itself. It runs once a day. It collects. It organizes. It records. No filter for importance. No editorial on what matters. The net goes out, whatever it catches comes back, and it gets written down.
 
-The Feed is an automated daily sweep of global news across thirteen categories: earth events, water, sky, infrastructure, aviation, maritime, violence, public spaces, politics, economy, health, space, and the unexplained. It runs once a day and collects what it finds — headlines, keywords, sources, links. No analysis. No predictions. No agenda. Just the inventory.
+Each file is a dated snapshot organized by category: earth events, water incidents, sky conditions, infrastructure failures, aviation incidents, maritime disasters, violence, public space incidents, political disruptions, economic shocks, health crises, space phenomena, and anything that doesn't fit anywhere else. Every entry carries a headline, keywords, source name, and a direct link. Categories with no activity are logged as empty — the silence is part of the record too.
 
-Each file is a dated snapshot. The categories are fixed. The format is consistent. Other systems can read it. Humans can read it too. The point is that it exists, that it ran, and that what happened that day is recorded somewhere in a format that doesn't decay.
+This is not curated. If a volcanic eruption and a parasitic outbreak and an oil spill happen on the same Tuesday, all three go in the file. If nothing happens in a category, that gets filed too. The accumulation is the point. A day where everything is quiet is data. A day where three categories fill before noon is also data. The Feed does not decide which is worse.
 
-The world doesn't stop having earthquakes and oil spills and disease outbreaks because nobody wrote them down. This writes them down. That's the job.
+The files are never deleted. They stack up. That is the job.
 
 ## Latest Feed
 
-[2026-08-24] — 10 entries
-[feed/2026-08-24.md](feed/2026-08-24.md)
+[2026-08-25] — 7 entries
+[feed/2026-08-25.md](feed/2026-08-25.md)
 
 ## Archive
 
