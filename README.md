@@ -10,8 +10,8 @@ The files are never deleted. They stack up. That is the job.
 
 ## Latest Feed
 
-[2026-08-25] — 7 entries
-[feed/2026-08-25.md](feed/2026-08-25.md)
+[2026-08-26] — 9 entries
+[feed/2026-08-26.md](feed/2026-08-26.md)
 
 ## Archive
 
