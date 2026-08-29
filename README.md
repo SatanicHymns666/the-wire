@@ -12,8 +12,8 @@ This system runs daily. The files do not get deleted. There is no endpoint. That
 
 ## Latest Feed
 
-[2026-08-28] — 18 entries
-[feed/2026-08-28.md](feed/2026-08-28.md)
+[2026-08-29] — 6 entries
+[feed/2026-08-29.md](feed/2026-08-29.md)
 
 ## Archive
 
