@@ -1,19 +1,19 @@
 # The Feed
 
-Every day, the world breaks something. Usually several things. The Feed watches.
+The Feed is a daily automated news sweep. Every day, it runs. It searches. It collects. It files.
 
-This is a daily automated news sweep — no filter, no framing, no editorial angle. Earthquakes, oil spills, market collapses, disease counts, airframes that didn't make it, migrant boats that went under. If it happened and it can be sourced, it goes in the file. The file doesn't care whether it's a slow news day or the kind of day that makes you close the tab.
+The world breaks things constantly — earthquakes, outbreaks, structural failures, political ruptures, fires, floods, and a rotating cast of phenomena that haven't earned a category yet. Most of it passes unrecorded. The Feed writes it down anyway.
 
-Each daily file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Within each category: headline, keywords, source, link. The keywords are atoms — locations, event types, proper names, specific details. No sentences. No interpretation. Other systems read these files and the format stays clean.
+Each daily file is a snapshot organized by thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Each entry carries a headline, a set of keywords, the source outlet, and a link. No interpretation. No prediction. No agenda. The record exists because these things happened, and writing them down is the whole point.
 
-Between categories is where the filing clerk loses composure. The data stays intact. The commentary doesn't.
+The Feed doesn't tell you what it means. It doesn't tell you what to do. It runs daily, deposits the file, and goes back to watching. Some days the file is heavy. Some days it's almost empty. Both conditions are informative. The empty days are not necessarily the good days.
 
-This system runs daily. The files do not get deleted. There is no endpoint. That's the job.
+This is an automated system. It has not failed when the news is terrible, and it has not succeeded when the news is quiet. It ran. It searched. It filed. That's the job.
 
 ## Latest Feed
 
-[2026-08-29] — 6 entries
-[feed/2026-08-29.md](feed/2026-08-29.md)
+[2026-08-30] — 8 entries
+[feed/2026-08-30.md](feed/2026-08-30.md)
 
 ## Archive
 
