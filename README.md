@@ -1,17 +1,19 @@
 # The Feed
 
-The world breaks things. This is where it gets written down.
+Every day the world breaks things. We write them down.
 
-The Feed is an automated daily sweep. It runs every day, collects what happened, and organizes it by category: earthquakes, floods, fires, crashes, collapses, outbreaks, political emergencies, economic unraveling, and everything else the planet manages to produce before midnight. Each entry gets a headline, a set of keywords pulled straight from the reporting, a source, and a link. No spin. No framing. Just the file.
+The Feed is a daily automated sweep of global news across thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. No analysis. No prediction. No interpretation. The world provides the narrative. The job here is to keep up with the filing.
 
-Thirteen categories. One file per day. If something happened, it's in here. If nothing happened in a category, the file says so — and that silence is worth noting too. Every entry is new. Duplicates from the prior day's file are removed. The system does not decide what matters. It collects everything it can find and leaves that judgment to whoever's reading.
+Each daily file is a dated snapshot. Headlines, keywords, the source that caught it, and the URL. The format is structured because other systems read these files and they don't care about your feelings. Timestamps are UTC. The tone is whatever the day earned.
 
-This runs whether anyone is watching or not. It doesn't explain itself. It doesn't contextualize. You get the temperature of the day — what the world did to itself while you were doing other things. The rest is yours to make of it.
+This system runs automatically every day whether or not anything happened. On quiet days, the file reflects the quiet. On days like today, the file is longer. The categories that come up empty get noted. The silence is part of the record too.
+
+Daily feeds are archived in the `feed/` directory and are never deleted. The record is cumulative. The world doesn't stop, and neither does this.
 
 ## Latest Feed
 
-[2026-08-31] — 15 entries
-[feed/2026-08-31.md](feed/2026-08-31.md)
+[2026-09-01] — 12 entries
+[feed/2026-09-01.md](feed/2026-09-01.md)
 
 ## Archive
 
