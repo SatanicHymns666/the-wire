@@ -1,19 +1,17 @@
 # The Feed
 
-Every day the world breaks things. We write them down.
+Every day the world breaks something. A storm, a ship, a market, a body count. The Feed shows up and writes it down.
 
-The Feed is a daily automated sweep of global news across thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. No analysis. No prediction. No interpretation. The world provides the narrative. The job here is to keep up with the filing.
+This is an automated daily sweep. No analysis. No predictions. No agenda. Thirteen categories, swept by keyword, organized by type: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Each entry is a headline, a set of keywords extracted from the source, the outlet, and a direct link. You read it or you don't. The record exists either way.
 
-Each daily file is a dated snapshot. Headlines, keywords, the source that caught it, and the URL. The format is structured because other systems read these files and they don't care about your feelings. Timestamps are UTC. The tone is whatever the day earned.
+The system runs once per day, UTC. It deduplicates against the previous day's file so you're not reading the same headline twice. When a category has nothing, it says so. When something warrants silence instead of commentary, it's silent. The rest of the time it files the report and gets out.
 
-This system runs automatically every day whether or not anything happened. On quiet days, the file reflects the quiet. On days like today, the file is longer. The categories that come up empty get noted. The silence is part of the record too.
-
-Daily feeds are archived in the `feed/` directory and are never deleted. The record is cumulative. The world doesn't stop, and neither does this.
+Nothing in here is curated for importance or relevance. Wide net, no filter. If it happened and a search turned it up, it's in the file. The absence of curation is the point.
 
 ## Latest Feed
 
-[2026-09-01] — 12 entries
-[feed/2026-09-01.md](feed/2026-09-01.md)
+[2026-09-02] — 12 entries
+[feed/2026-09-02.md](feed/2026-09-02.md)
 
 ## Archive
 
