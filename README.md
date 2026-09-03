@@ -1,17 +1,19 @@
 # The Feed
 
-Every day the world breaks something. A storm, a ship, a market, a body count. The Feed shows up and writes it down.
+Some days the world does something worth writing down. Most days, it does several things. This is where they go.
 
-This is an automated daily sweep. No analysis. No predictions. No agenda. Thirteen categories, swept by keyword, organized by type: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Each entry is a headline, a set of keywords extracted from the source, the outlet, and a direct link. You read it or you don't. The record exists either way.
+The Feed is a daily automated news sweep across thirteen categories of disaster, conflict, failure, and the unexplained. It runs once a day. It collects what it can find. It doesn't filter for relevance — relevance is not the job. The job is documentation. The world breaks things; The Feed writes them down.
 
-The system runs once per day, UTC. It deduplicates against the previous day's file so you're not reading the same headline twice. When a category has nothing, it says so. When something warrants silence instead of commentary, it's silent. The rest of the time it files the report and gets out.
+Each file is a dated snapshot: headlines, keywords, source, and a link. The categories cover physical disasters (earth, water, sky), infrastructure failures, aviation, maritime, violence, public spaces, political crises, economic events, public health emergencies, space events, and things that don't fit cleanly anywhere. If it happened and someone wrote it down and the system found it, it's here.
 
-Nothing in here is curated for importance or relevance. Wide net, no filter. If it happened and a search turned it up, it's in the file. The absence of curation is the point.
+No analysis. No predictions. No conclusions. The Feed is a net, not a fisherman. What gets caught is what was there. The absence of entries is also a data point — some days the net comes up mostly empty, which is either good news or a coverage gap, and the system can't always tell the difference.
+
+This is an automated system. It runs on its own. It does not represent the views of any organization, government, or individual. It witnesses. It records. It files.
 
 ## Latest Feed
 
-[2026-09-02] — 12 entries
-[feed/2026-09-02.md](feed/2026-09-02.md)
+[2026-09-03] — 10 entries
+[feed/2026-09-03.md](feed/2026-09-03.md)
 
 ## Archive
 
