@@ -1,17 +1,17 @@
 # The Feed
 
-This is an automated daily news sweep. Every day, a system goes looking. It doesn't know what it will find. It casts wide across thirteen categories — earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, politics, economics, health, space, and the unexplained. Whatever the day served up, it gets written down.
+The Feed is an automated daily sweep of global incidents. It runs every day. It writes everything down. That's the whole job.
 
-Each entry is a headline, a set of keywords pulled from the source, the publication, and the link. No analysis. No opinion. No framing beyond temperature — what the day felt like, not what it meant. The categories are fixed. The entries change. Some days the file is ten lines long. Some days longer.
+Every 24 hours, a search goes out across every category of disaster, failure, and violence the world produces: geological events, flooding, wildfires, infrastructure collapses, aviation and maritime emergencies, mass violence, political crises, economic shocks, disease outbreaks, near-Earth space events, and anything that doesn't fit anywhere else. If it happened, if it made the news, it gets a line. A headline. A handful of keywords. A source. A link. No analysis. No editorial. No predictions.
 
-This is not a news aggregator. It's not curated for importance or relevance. The system doesn't know what relevant means. It knows what happened, where it happened, and who said so. Between the categories, it reacts to what it just wrote down — composure holding in the early sections, failing by the end. That's honest. The categories earn it.
+The world breaks things with or without commentary. This is just the net. The net doesn't decide what's worth catching — it goes out, comes back, and whatever's there gets recorded. Some days the haul is heavy. Some days there's almost nothing. Both of those are data.
 
-The archive goes back to May 31, 2026. Files are never deleted. Each file is a record of a day. The days don't stop coming.
+Each file is a dated snapshot organized by category. The format stays flat on purpose — structured enough to parse, rough enough to stay honest. Collected once a day, stored forever. Nobody's cleaning these up.
 
 ## Latest Feed
 
-[2026-09-04] — 6 entries
-[feed/2026-09-04.md](feed/2026-09-04.md)
+[2026-09-05] — 6 entries
+[feed/2026-09-05.md](feed/2026-09-05.md)
 
 ## Archive
 
