@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is an automated daily sweep of global incidents. It runs every day. It writes everything down. That's the whole job.
+The Feed is an automated daily news sweep. It runs once a day and writes down what the world did to itself while everyone was looking somewhere else. No analysis. No opinion. No agenda. Events, keywords, sources, links — organized by category and filed in dated markdown files.
 
-Every 24 hours, a search goes out across every category of disaster, failure, and violence the world produces: geological events, flooding, wildfires, infrastructure collapses, aviation and maritime emergencies, mass violence, political crises, economic shocks, disease outbreaks, near-Earth space events, and anything that doesn't fit anywhere else. If it happened, if it made the news, it gets a line. A headline. A handful of keywords. A source. A link. No analysis. No editorial. No predictions.
+It covers thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Every category gets searched. Empty categories are noted. The sweep doesn't filter for significance because it doesn't know what's significant. It just collects. You decide what matters.
 
-The world breaks things with or without commentary. This is just the net. The net doesn't decide what's worth catching — it goes out, comes back, and whatever's there gets recorded. Some days the haul is heavy. Some days there's almost nothing. Both of those are data.
+Each entry carries a headline, a set of keywords extracted from the source, the outlet name, and a direct link. The format is consistent so other systems can read it. The voice between categories is not consistent. That's on purpose.
 
-Each file is a dated snapshot organized by category. The format stays flat on purpose — structured enough to parse, rough enough to stay honest. Collected once a day, stored forever. Nobody's cleaning these up.
+Daily files live in the `feed/` directory. They are never deleted.
 
 ## Latest Feed
 
-[2026-09-05] — 6 entries
-[feed/2026-09-05.md](feed/2026-09-05.md)
+[2026-09-06] — 6 entries
+[feed/2026-09-06.md](feed/2026-09-06.md)
 
 ## Archive
 
