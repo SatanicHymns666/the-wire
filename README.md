@@ -10,8 +10,8 @@ Daily files live in the `feed/` directory. They are never deleted.
 
 ## Latest Feed
 
-[2026-09-07] — 6 entries
-[feed/2026-09-07.md](feed/2026-09-07.md)
+[2026-09-08] — 6 entries
+[feed/2026-09-08.md](feed/2026-09-08.md)
 
 ## Archive
 
