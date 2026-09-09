@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is an automated daily news sweep. It runs once a day and writes down what the world did to itself while everyone was looking somewhere else. No analysis. No opinion. No agenda. Events, keywords, sources, links — organized by category and filed in dated markdown files.
+This is a daily automated sweep of what the world does to itself when nobody's watching. It runs once a day. It doesn't editorialize, predict, or explain. It collects.
 
-It covers thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Every category gets searched. Empty categories are noted. The sweep doesn't filter for significance because it doesn't know what's significant. It just collects. You decide what matters.
+Thirteen categories. Every day. Earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, political crises, economic failures, health outbreaks, space events, and things that don't fit anywhere else. Each entry is a headline, a set of extracted keywords, a source name, and a direct link. The data inside each category is clean and parseable. Other systems read it.
 
-Each entry carries a headline, a set of keywords extracted from the source, the outlet name, and a direct link. The format is consistent so other systems can read it. The voice between categories is not consistent. That's on purpose.
+The world breaks things constantly — at volume, in parallel, across every category, most days simultaneously. Most of it doesn't trend. Most of it doesn't get remembered past the news cycle that produced it. The feed keeps the count anyway. The file exists whether anything happened or not. When a category is empty, that gets written down too.
 
-Daily files live in the `feed/` directory. They are never deleted.
+Each file is a dated snapshot. It is not a summary, not an analysis, not a commentary. It is a record of what was findable, on that day, across those searches. Nothing more. Entries are never deleted.
 
 ## Latest Feed
 
-[2026-09-08] — 6 entries
-[feed/2026-09-08.md](feed/2026-09-08.md)
+[2026-09-09] — 10 entries
+[feed/2026-09-09.md](feed/2026-09-09.md)
 
 ## Archive
 
