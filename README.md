@@ -1,17 +1,17 @@
 # The Feed
 
-This is a daily automated sweep of what the world does to itself when nobody's watching. It runs once a day. It doesn't editorialize, predict, or explain. It collects.
+The Feed runs every day. It pulls news across thirteen categories, strips it to its parts — headline, keywords, source, link — and writes it down. Nothing gets interpreted. Nothing gets weighted. The world breaks things, and The Feed documents the breakage. That's the job.
 
-Thirteen categories. Every day. Earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, political crises, economic failures, health outbreaks, space events, and things that don't fit anywhere else. Each entry is a headline, a set of extracted keywords, a source name, and a direct link. The data inside each category is clean and parseable. Other systems read it.
+Categories covered: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Each category gets what it gets. A day with three earthquakes and zero violence gets filed the same way as the reverse. The Feed doesn't have opinions about which days were worse. It has timestamps.
 
-The world breaks things constantly — at volume, in parallel, across every category, most days simultaneously. Most of it doesn't trend. Most of it doesn't get remembered past the news cycle that produced it. The feed keeps the count anyway. The file exists whether anything happened or not. When a category is empty, that gets written down too.
+Each file is dated by collection day in UTC. New entries only — anything logged the previous day doesn't appear again. The format is consistent by design: other systems can read these files, and they shouldn't have to guess at the structure. Headlines and keywords are factual. Source names and links are included for every entry. Commentary appears only between categories, where it belongs, and it is not the record. The entries are the record.
 
-Each file is a dated snapshot. It is not a summary, not an analysis, not a commentary. It is a record of what was findable, on that day, across those searches. Nothing more. Entries are never deleted.
+The Feed has been running daily. It will keep running. The archive doesn't get pruned. The files don't get deleted. Whatever happened on a given day is in there, dated, searchable, and available. The world doesn't make it easy to remember what it did to itself three months ago. The Feed doesn't forget.
 
 ## Latest Feed
 
-[2026-09-09] — 10 entries
-[feed/2026-09-09.md](feed/2026-09-09.md)
+2026-09-10 — 9 entries
+[feed/2026-09-10.md](feed/2026-09-10.md)
 
 ## Archive
 
