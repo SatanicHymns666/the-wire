@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed runs every day. It pulls news across thirteen categories, strips it to its parts — headline, keywords, source, link — and writes it down. Nothing gets interpreted. Nothing gets weighted. The world breaks things, and The Feed documents the breakage. That's the job.
+Every day the world breaks something. Every day this system writes it down.
 
-Categories covered: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Each category gets what it gets. A day with three earthquakes and zero violence gets filed the same way as the reverse. The Feed doesn't have opinions about which days were worse. It has timestamps.
+The Feed is a daily automated news sweep across thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. It runs once per day, collects what happened, and files it. No predictions. No analysis. No opinions about what it means. Just the record of what went wrong, or almost went wrong, or went wrong so quietly nobody noticed until now.
 
-Each file is dated by collection day in UTC. New entries only — anything logged the previous day doesn't appear again. The format is consistent by design: other systems can read these files, and they shouldn't have to guess at the structure. Headlines and keywords are factual. Source names and links are included for every entry. Commentary appears only between categories, where it belongs, and it is not the record. The entries are the record.
+Each daily file contains headlines, keywords, source attribution, and direct links. The keywords are pulled straight from the articles — proper names, locations, event types, specific counts. The format is intentionally parseable. Other systems read these files. This one just writes them.
 
-The Feed has been running daily. It will keep running. The archive doesn't get pruned. The files don't get deleted. Whatever happened on a given day is in there, dated, searchable, and available. The world doesn't make it easy to remember what it did to itself three months ago. The Feed doesn't forget.
+The world does not stop producing entries. This system does not stop collecting them. That is the entire arrangement.
 
 ## Latest Feed
 
-2026-09-11 — 8 entries
-[feed/2026-09-11.md](feed/2026-09-11.md)
+[2026-09-12] — 7 entries
+[feed/2026-09-12.md](feed/2026-09-12.md)
 
 ## Archive
 
