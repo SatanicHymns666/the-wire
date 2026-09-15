@@ -10,8 +10,8 @@ The world does not stop producing entries. This system does not stop collecting 
 
 ## Latest Feed
 
-[2026-09-14] — 7 entries
-[feed/2026-09-14.md](feed/2026-09-14.md)
+[2026-09-15] — 5 entries
+[feed/2026-09-15.md](feed/2026-09-15.md)
 
 ## Archive
 
