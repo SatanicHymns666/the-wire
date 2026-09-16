@@ -1,17 +1,17 @@
 # The Feed
 
-Every day the world breaks something. Every day this system writes it down.
+The Feed is a daily automated news sweep. Every day it runs, it searches. Every day it finds something. It doesn't filter for importance or narrative fit or what you'd rather not know about — it casts wide and writes down what comes back.
 
-The Feed is a daily automated news sweep across thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. It runs once per day, collects what happened, and files it. No predictions. No analysis. No opinions about what it means. Just the record of what went wrong, or almost went wrong, or went wrong so quietly nobody noticed until now.
+Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Inside each category: headlines, keywords, source, and links. The data is clean. The commentary between categories is not.
 
-Each daily file contains headlines, keywords, source attribution, and direct links. The keywords are pulled straight from the articles — proper names, locations, event types, specific counts. The format is intentionally parseable. Other systems read these files. This one just writes them.
+The system runs daily. It does not predict. It does not warn. It does not comfort. It records what the world does to itself while most people are looking at something else, and it files that record in a directory that does not delete anything.
 
-The world does not stop producing entries. This system does not stop collecting them. That is the entire arrangement.
+You are reading a log. The log does not have opinions about what it logged.
 
 ## Latest Feed
 
-[2026-09-15] — 5 entries
-[feed/2026-09-15.md](feed/2026-09-15.md)
+[2026-09-16] — 14 entries
+[feed/2026-09-16.md](feed/2026-09-16.md)
 
 ## Archive
 
