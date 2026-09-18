@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is a daily automated news sweep. Every day it runs, it searches. Every day it finds something. It doesn't filter for importance or narrative fit or what you'd rather not know about — it casts wide and writes down what comes back.
+The Feed is a daily automated news sweep. Every day, it searches for earthquakes, floods, fires, plane crashes, outbreaks, political fractures, and everything else the world does to itself when nobody is paying close attention. It finds them. It files them. It does not explain them or predict them or decide whether they matter. That part is not its job.
 
-Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Inside each category: headlines, keywords, source, and links. The data is clean. The commentary between categories is not.
+Each daily file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Every entry gets a headline, a set of keywords, a source, and a link. The data blocks are clean. Other systems read them. The commentary lives between the categories and belongs to the filing process, not the record.
 
-The system runs daily. It does not predict. It does not warn. It does not comfort. It records what the world does to itself while most people are looking at something else, and it files that record in a directory that does not delete anything.
+The Feed runs once a day and writes exactly what it found. If a category has nothing, it says so. If the world had a quiet Thursday in one column and a record-breaking disaster in another, both get filed the same way. The format does not editorialize. The accumulation does the work.
 
-You are reading a log. The log does not have opinions about what it logged.
+This is an automated system. It does not take requests. It does not have a position. It watches. It records. The world breaks things and it writes them down.
 
 ## Latest Feed
 
-[2026-09-17] — 8 entries
-[feed/2026-09-17.md](feed/2026-09-17.md)
+[2026-09-18] — 9 entries
+[feed/2026-09-18.md](feed/2026-09-18.md)
 
 ## Archive
 
