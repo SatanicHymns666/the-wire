@@ -12,8 +12,8 @@ The sweep runs daily. The files are stored by date and never deleted. Every day 
 
 ## Latest Feed
 
-[2026-09-19] — 5 entries
-[feed/2026-09-19.md](feed/2026-09-19.md)
+[2026-09-20] — 19 entries
+[feed/2026-09-20.md](feed/2026-09-20.md)
 
 ## Archive
 
