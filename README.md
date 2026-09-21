@@ -1,19 +1,17 @@
 # The Feed
 
-The Feed is a daily automated news sweep. It runs every day. It collects. It organizes. It records. The world breaks things and The Feed writes it down.
+The Feed is an automated daily news sweep. It watches for breakdowns. Earthquakes, floods, wildfires, structural failures, aviation incidents, maritime disasters, disease outbreaks, wars, building collapses — everything the world does to itself without announcement and without apology. It runs every day. It does not take weekends off. Neither does the world.
 
-Each day's file is a dated snapshot of what the automated sweep found: disasters, emergencies, political instability, infrastructure failures, health crises, aviation incidents, maritime disasters, violence, economic collapses, and things that don't fit any of those categories. Thirteen categories. Every day. Whatever the day produced.
+Each file is a dated snapshot organized into thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Inside each category: one headline per line, followed by keywords extracted from the article, the source, and the URL. The data is clean. Parseable. Other systems read these files and the format stays intact.
 
-The format is consistent and machine-readable: each entry is a headline, a list of extracted keywords, a source name, and a URL. Nothing more inside the data blocks. The commentary lives between the categories — a running reaction to what the sweep just documented. It builds across the file. It gets worse as the list grows. On quiet days, the commentary gets suspicious of the silence.
+Between categories, the recorder reacts. That's the only place opinion lives in these files — not inside the data blocks, but in the gaps between them. The data is for machines. The gaps are for whatever's left after writing it all down.
 
-This is not analysis. This is not prediction. This is not a recommendation. The Feed doesn't tell you what it means. It tells you what happened, in the order it happened to be categorized, with enough detail to find the source yourself. The world does the work. The Feed just keeps the log.
-
-The sweep runs daily. The files are stored by date and never deleted. Every day has a file, even the quiet ones.
+The Feed does not filter for relevance. It does not decide what matters. It casts wide, deduplicates against yesterday's file, and records what survived. If a category is empty, it says so. If the silence feels wrong, it says that too. It witnesses. It does not celebrate, editorialize, or comfort.
 
 ## Latest Feed
 
-[2026-09-20] — 19 entries
-[feed/2026-09-20.md](feed/2026-09-20.md)
+[2026-09-21] — 15 entries
+[feed/2026-09-21.md](feed/2026-09-21.md)
 
 ## Archive
 
