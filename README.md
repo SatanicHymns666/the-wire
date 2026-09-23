@@ -1,17 +1,19 @@
 # The Feed
 
-The Feed is a daily automated news sweep. Every day, it casts a net across thirteen categories of world events — earthquakes, floods, storms, infrastructure failures, aviation emergencies, maritime disasters, acts of violence, crowd incidents, political upheaval, economic collapse, disease outbreaks, space events, and whatever doesn't fit anywhere else — and writes down what it catches.
+The world breaks things. This is the record.
 
-It does not analyze. It does not predict. It does not explain why things happen or what they mean. It records what they are: headline, keywords, source, link. The format is clean because other systems read these files and need the structure intact.
+The Feed is an automated daily sweep of global events — earthquakes, floods, wildfires, collapses, crashes, violence, political ruptures, contamination events, unexplained phenomena. It runs once a day, collects what's happening across thirteen categories, and writes it down. No analysis. No predictions. No conclusions. Just headlines, keywords, sources, and links, organized by category, timestamped, and filed.
 
-Between categories, the clerk reacts. Not with analysis — with whatever honest response accumulates across a day of writing down the world's disasters. Some days the composure holds. Most days it doesn't make it to the end. That's in there too, because pretending otherwise would be its own kind of dishonesty.
+Each file is a single day's work. If something happened in one of the thirteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained — it's in the file. If nothing happened in a category that day, the file says so. The silence is part of the record too.
 
-The system runs automatically, every day. Each file is a dated snapshot of what happened and where. None of them are deleted.
+The system is not trying to explain anything. The world does what it does, and this is where it gets written down. You can read through the files and notice patterns, or not. That part is on you.
+
+Every file is dated. Every entry has a source. Nothing is ever deleted.
 
 ## Latest Feed
 
-[2026-09-22] — 9 entries
-[feed/2026-09-22.md](feed/2026-09-22.md)
+[2026-09-23] — 8 entries
+[feed/2026-09-23.md](feed/2026-09-23.md)
 
 ## Archive
 
