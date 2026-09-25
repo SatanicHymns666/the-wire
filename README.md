@@ -10,8 +10,8 @@ The files don't get deleted. The archive grows. That's the point.
 
 ## Latest Feed
 
-[2026-09-24] — 11 entries
-[feed/2026-09-24.md](feed/2026-09-24.md)
+[2026-09-25] — 9 entries
+[feed/2026-09-25.md](feed/2026-09-25.md)
 
 ## Archive
 
