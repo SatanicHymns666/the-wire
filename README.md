@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is an automated daily news sweep. It runs once a day and writes down what happened. No curation. No angle. No editorial board. The world breaks things and this system records them.
+The world breaks things every day. Most of it goes unnoticed. The Feed is a daily automated collection system that sweeps for exactly that — earthquakes, floods, storms, infrastructure failures, aviation incidents, maritime disasters, political crises, economic shocks, disease outbreaks, and the occasional thing nobody can explain. It runs every day. It records what it finds.
 
-Every file is a dated snapshot — organized by category, with headlines, extracted keywords, source names, and direct links. The categories cover ground-level events: earthquakes, floods, storms, infrastructure failures, aviation, maritime disasters, violence, political developments, economic shocks, health emergencies, space activity, and whatever ends up in the last column that doesn't fit anywhere else. If it happened, it's in there. If nothing happened in a category, that's in there too.
+Each file is a dated snapshot, organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Each entry carries a headline, keywords, source, and link. No editorializing inside the data blocks. Other systems may need to read these files and they need the format intact. The commentary lives between the sections, not inside them.
 
-The system runs on its own. Nobody is sitting at a desk watching the news and deciding what matters. The sweep goes out, pulls what it finds, deduplicates against the previous day's entries, and writes the file. The voice between categories is the filing system losing composure in real time. That's not editorializing. That's just what happens when you read this much news every single day.
+Nothing here is curated for impact or arranged into a narrative. The sweep catches what it catches. If a category is empty, it's empty. If everything is empty, that gets noted too. The silence is data.
 
-The files don't get deleted. The archive grows. That's the point.
+This runs whether anyone is watching or not. That's the point.
 
 ## Latest Feed
 
-[2026-09-25] — 9 entries
-[feed/2026-09-25.md](feed/2026-09-25.md)
+[2026-09-26] — 11 entries
+[feed/2026-09-26.md](feed/2026-09-26.md)
 
 ## Archive
 
