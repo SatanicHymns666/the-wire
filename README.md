@@ -1,17 +1,17 @@
 # The Feed
 
-The world breaks things every day. Most of it goes unnoticed. The Feed is a daily automated collection system that sweeps for exactly that — earthquakes, floods, storms, infrastructure failures, aviation incidents, maritime disasters, political crises, economic shocks, disease outbreaks, and the occasional thing nobody can explain. It runs every day. It records what it finds.
+The world breaks things every day. Most of it doesn't make the front page. Some of it barely makes the wire. This is the wire.
 
-Each file is a dated snapshot, organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Each entry carries a headline, keywords, source, and link. No editorializing inside the data blocks. Other systems may need to read these files and they need the format intact. The commentary lives between the sections, not inside them.
+The Feed runs daily. It sweeps news across thirteen categories — earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, political, economic, health, space, and the unexplained — collects what it finds, and writes it down. No analysis. No recommendations. No framing beyond what the day actually felt like. Headlines, keywords, source, link. The record, organized and dated.
 
-Nothing here is curated for impact or arranged into a narrative. The sweep catches what it catches. If a category is empty, it's empty. If everything is empty, that gets noted too. The silence is data.
+Each file is a snapshot. A timestamp. The planet on a given Tuesday at six in the morning. The system does not decide what matters. It casts wide. It does not filter for relevance because relevance is not its job. The job is to watch and to document.
 
-This runs whether anyone is watching or not. That's the point.
+The files do not get deleted. They accumulate. That is the archive.
 
 ## Latest Feed
 
-[2026-09-26] — 11 entries
-[feed/2026-09-26.md](feed/2026-09-26.md)
+[2026-09-27] — 7 entries
+[feed/2026-09-27.md](feed/2026-09-27.md)
 
 ## Archive
 
