@@ -1,17 +1,19 @@
 # The Feed
 
-Every day the world breaks something. A building. A government. A levee. A market. Usually several things at once, usually in different time zones, usually before anyone's had coffee. The Feed watches.
+The world breaks things. The Feed writes it down.
 
-This is an automated daily news sweep. It runs once a day, casts wide across thirteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained — and writes down what it finds. No filtering for relevance. No editorial triage. Relevance is not the job. The job is the record.
+Every day, an automated collection sweeps across major news sources searching for disasters, collapses, weather events, political crises, aviation incidents, maritime disasters, outbreaks, space anomalies, and anything else the planet sees fit to generate. What comes back gets sorted into categories, tagged with keywords, and filed as a dated snapshot. No analysis. No prediction. No comfort. Headline, keywords, source, link. The record is the record.
 
-Each file is a dated snapshot. Headlines, keywords, source, link. The categories are consistent so you can track what the world is doing over time: whether the ground is active, whether the sea is calm, whether the markets are pretending. The files never change after they're written. The archive goes back. It keeps going forward.
+The categories are blunt: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Between categories, the system reacts to what it just documented. The data stays clean. The commentary is where the weight lands. Both live in the same file.
 
-This runs whether or not anything happens. On quiet days it says so. On heavy days it says that too.
+The Feed does not decide what matters. It collects. It organizes. It files. The world provides the content. The calendar provides the filename. Every day gets its own page. The archive is never deleted.
+
+Each entry is formatted for parsing: headline, pipe-separated keywords, source, URL. The between-section commentary is for humans. The data blocks are for systems.
 
 ## Latest Feed
 
-[2026-09-29] — 22 entries  
-[feed/2026-09-29.md](feed/2026-09-29.md)
+[2026-09-30] — 15 entries  
+[feed/2026-09-30.md](feed/2026-09-30.md)
 
 ## Archive
 
