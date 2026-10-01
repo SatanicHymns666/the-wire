@@ -1,19 +1,17 @@
 # The Feed
 
-The world breaks things. The Feed writes it down.
+The Feed is a daily automated sweep. It runs. It collects. It files. The world breaks things and this is where they go.
 
-Every day, an automated collection sweeps across major news sources searching for disasters, collapses, weather events, political crises, aviation incidents, maritime disasters, outbreaks, space anomalies, and anything else the planet sees fit to generate. What comes back gets sorted into categories, tagged with keywords, and filed as a dated snapshot. No analysis. No prediction. No comfort. Headline, keywords, source, link. The record is the record.
+Every day, the system searches across thirteen categories — earth movement, flooding and contamination, sky events, infrastructure failure, aviation, maritime, violence, public space incidents, political shocks, economic failure, health emergencies, space events, and the unexplained — and captures what it finds: the headline, keywords stripped to their bones, the source, and the link. No analysis. No editorial. No conclusions. Just what happened, organized by what kind of thing it was.
 
-The categories are blunt: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Between categories, the system reacts to what it just documented. The data stays clean. The commentary is where the weight lands. Both live in the same file.
+Each file is a dated snapshot. YYYY-MM-DD.md. One day, one document. The accumulation is the point. The pattern is yours to find, if you want it.
 
-The Feed does not decide what matters. It collects. It organizes. It files. The world provides the content. The calendar provides the filename. Every day gets its own page. The archive is never deleted.
-
-Each entry is formatted for parsing: headline, pipe-separated keywords, source, URL. The between-section commentary is for humans. The data blocks are for systems.
+The system is blunt. It doesn't editorialize beyond temperature — what the day felt like, not what it meant. It is not here to comfort. It is not here to assign blame. It watches and it records and it clocks out.
 
 ## Latest Feed
 
-[2026-09-30] — 15 entries  
-[feed/2026-09-30.md](feed/2026-09-30.md)
+[2026-10-01] — 16 entries  
+[feed/2026-10-01.md](feed/2026-10-01.md)
 
 ## Archive
 
