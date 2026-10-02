@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is a daily automated sweep. It runs. It collects. It files. The world breaks things and this is where they go.
+Every day, something breaks. A volcano decides it's not done. A bank closes. A government expels a diplomat at midnight. Most of it doesn't make the scroll because there's always something louder. The Feed catches the rest — the second entry on the list, the thing that would have been the headline on a slow week, the quiet accumulation of events that only looks like a pattern if someone's keeping track.
 
-Every day, the system searches across thirteen categories — earth movement, flooding and contamination, sky events, infrastructure failure, aviation, maritime, violence, public space incidents, political shocks, economic failure, health emergencies, space events, and the unexplained — and captures what it finds: the headline, keywords stripped to their bones, the source, and the link. No analysis. No editorial. No conclusions. Just what happened, organized by what kind of thing it was.
+This is an automated daily sweep. It runs once a day. It searches. It collects. It organizes. It does not analyze, predict, advocate, or grieve. The world breaks things and this system writes it down.
 
-Each file is a dated snapshot. YYYY-MM-DD.md. One day, one document. The accumulation is the point. The pattern is yours to find, if you want it.
+Each file is a dated snapshot, organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Each entry carries a headline, a set of keywords extracted from the source, the publication name, and a direct link. The data inside each category is clean and consistent — other systems can read it without fighting the format. The voice between categories is not.
 
-The system is blunt. It doesn't editorialize beyond temperature — what the day felt like, not what it meant. It is not here to comfort. It is not here to assign blame. It watches and it records and it clocks out.
+The archive goes back to May 2026. Nothing is deleted. Some days have thirty entries. Some days have four. The count is not the story. The story is what was happening while you were looking somewhere else.
 
 ## Latest Feed
 
-[2026-10-01] — 16 entries  
-[feed/2026-10-01.md](feed/2026-10-01.md)
+[2026-10-02] — 8 entries  
+[feed/2026-10-02.md](feed/2026-10-02.md)
 
 ## Archive
 
