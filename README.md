@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is a daily automated news sweep. It runs once a day, collects what happened, and writes it down. No analysis. No recommendations. No calls to action. The world breaks things — volcanoes, levees, governments, aircraft, biological systems — and The Feed records what broke, where, and approximately when.
+Every day the world breaks something. A building, a coastline, a quarantine protocol, a record. The Feed writes it down.
 
-Each file is a dated snapshot. The categories are fixed: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. If a category came up empty, it says so. If something happened, it's there — headline, keywords, source, URL. Clean enough for other systems to read. Blunt enough that you know what you're looking at.
+This is an automated daily sweep across thirteen categories of bad news: earthquakes, floods, fires, infrastructure failures, aviation incidents, maritime disasters, violence, public space events, political crises, economic shocks, health emergencies, space activity, and things nobody has explained yet. Each run produces a dated file organized by category — headlines, keywords, source, and links. No editorializing inside the data. Just the atoms of what happened.
 
-This is not a news aggregator trying to tell you what matters. It doesn't know what matters. It casts wide and captures what it finds. Some days that's fourteen entries across seven categories. Some days it's five entries and a lot of silence. The silence is part of the record too.
+The system runs once a day and captures what it finds. Some days are heavy. Some days are quiet. The quiet days get noted too, because silence isn't the same as nothing. The files are never deleted. The archive accumulates. This is what the world did to itself on each of these days, written down while nobody was watching.
 
-The system runs daily. It does not editorialize. It does not predict. It does not offer hope or explain causes. It watches and it writes. That's the job.
+The Feed does not predict. It does not warn. It does not explain what anything means. It witnesses.
 
 ## Latest Feed
 
-[2026-10-04] — 5 entries  
-[feed/2026-10-04.md](feed/2026-10-04.md)
+[2026-10-05] — 14 entries  
+[feed/2026-10-05.md](feed/2026-10-05.md)
 
 ## Archive
 
