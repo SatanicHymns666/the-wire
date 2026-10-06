@@ -1,17 +1,19 @@
 # The Feed
 
-Every day the world breaks something. A building, a coastline, a quarantine protocol, a record. The Feed writes it down.
+The world breaks things every day. This is where they get written down.
 
-This is an automated daily sweep across thirteen categories of bad news: earthquakes, floods, fires, infrastructure failures, aviation incidents, maritime disasters, violence, public space events, political crises, economic shocks, health emergencies, space activity, and things nobody has explained yet. Each run produces a dated file organized by category — headlines, keywords, source, and links. No editorializing inside the data. Just the atoms of what happened.
+The Feed is an automated daily sweep of global disruptions — geological, meteorological, structural, violent, economic, biological, celestial, and otherwise. It runs every day. It collects what's breaking. It doesn't filter for significance, doesn't sort by severity, doesn't make recommendations. It just records.
 
-The system runs once a day and captures what it finds. Some days are heavy. Some days are quiet. The quiet days get noted too, because silence isn't the same as nothing. The files are never deleted. The archive accumulates. This is what the world did to itself on each of these days, written down while nobody was watching.
+Each daily file is a snapshot. Thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. For each entry: a headline, a set of keywords, a source name, and a direct link. The format stays the same every day. Other systems read these files. The format has to hold.
 
-The Feed does not predict. It does not warn. It does not explain what anything means. It witnesses.
+The sweep runs on UTC time. The date in the filename is the collection date. If something happened yesterday and got reported today, it's today's entry. If the same URL appeared in yesterday's file, it doesn't appear today. No duplicates. No archive manipulation.
+
+The world doesn't take days off. Some days are quieter than others. Quiet days get logged the same as loud ones. The silence is part of the record too.
 
 ## Latest Feed
 
-[2026-10-05] — 14 entries  
-[feed/2026-10-05.md](feed/2026-10-05.md)
+[2026-10-06] — 22 entries
+[feed/2026-10-06.md](feed/2026-10-06.md)
 
 ## Archive
 
