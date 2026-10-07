@@ -12,8 +12,8 @@ The world doesn't take days off. Some days are quieter than others. Quiet days g
 
 ## Latest Feed
 
-[2026-10-06] — 22 entries
-[feed/2026-10-06.md](feed/2026-10-06.md)
+[2026-10-07] — 18 entries
+[feed/2026-10-07.md](feed/2026-10-07.md)
 
 ## Archive
 
