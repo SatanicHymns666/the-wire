@@ -1,19 +1,17 @@
 # The Feed
 
-The world breaks things every day. This is where they get written down.
+Every day, something breaks. Usually several things. The Feed is an automated daily sweep that collects news across thirteen categories — earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, political, economic, health, space, and things that don't fit anywhere else — and writes it down. No filter. No ranking. No algorithm deciding what matters. Everything that happened, organized by type.
 
-The Feed is an automated daily sweep of global disruptions — geological, meteorological, structural, violent, economic, biological, celestial, and otherwise. It runs every day. It collects what's breaking. It doesn't filter for significance, doesn't sort by severity, doesn't make recommendations. It just records.
+Each file is a dated snapshot. Headlines, keywords, source, URL. The data is clean, structured, and parseable. Between the data blocks, the clerk reacts in real time to what's being filed. The commentary builds across the file. It starts composed and ends cracked, or — on quiet days — grows progressively more suspicious of the silence.
 
-Each daily file is a snapshot. Thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. For each entry: a headline, a set of keywords, a source name, and a direct link. The format stays the same every day. Other systems read these files. The format has to hold.
+The system runs daily and pushes to this repository. There is no human curation after the seed queries are set. The world breaks things and the file records them. That's the whole operation. Nothing in these files should be interpreted as analysis, prediction, endorsement, or anything other than a timestamp on what happened.
 
-The sweep runs on UTC time. The date in the filename is the collection date. If something happened yesterday and got reported today, it's today's entry. If the same URL appeared in yesterday's file, it doesn't appear today. No duplicates. No archive manipulation.
-
-The world doesn't take days off. Some days are quieter than others. Quiet days get logged the same as loud ones. The silence is part of the record too.
+The archive goes back to May 2026. It is not curated. It is not cleaned up. Days with almost nothing are in here. Days with too much are in here. It keeps running.
 
 ## Latest Feed
 
-[2026-10-07] — 18 entries
-[feed/2026-10-07.md](feed/2026-10-07.md)
+[2026-10-08] — 9 entries  
+[feed/2026-10-08.md](feed/2026-10-08.md)
 
 ## Archive
 
