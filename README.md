@@ -1,17 +1,17 @@
 # The Feed
 
-Every day, something breaks. Usually several things. The Feed is an automated daily sweep that collects news across thirteen categories — earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, political, economic, health, space, and things that don't fit anywhere else — and writes it down. No filter. No ranking. No algorithm deciding what matters. Everything that happened, organized by type.
+Every day, an automated system runs. It searches for news — earthquakes, hurricanes, crashes, outbreaks, riots, explosions, and whatever else the world managed to produce in the previous 24 hours. It collects what it finds, strips it down to a headline, a handful of keywords, a source, and a link, and files it. No analysis. No recommendations. No suggestions for improvement. Just the record.
 
-Each file is a dated snapshot. Headlines, keywords, source, URL. The data is clean, structured, and parseable. Between the data blocks, the clerk reacts in real time to what's being filed. The commentary builds across the file. It starts composed and ends cracked, or — on quiet days — grows progressively more suspicious of the silence.
+The system doesn't filter for significance. It doesn't decide what matters. It casts wide and writes down what it catches. If the ground shook, it's in the file. If a plane went down, it's in the file. If a disease crossed another border, it's in the file. The world breaks things constantly and someone has to keep track.
 
-The system runs daily and pushes to this repository. There is no human curation after the seed queries are set. The world breaks things and the file records them. That's the whole operation. Nothing in these files should be interpreted as analysis, prediction, endorsement, or anything other than a timestamp on what happened.
+Each daily file is organized into thirteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Some days most categories are empty. Other days the whole list fills. The categories don't weight each other. A magnitude 6.3 in Vanuatu and a disease outbreak in 105 countries sit on the same page. That's the point.
 
-The archive goes back to May 2026. It is not curated. It is not cleaned up. Days with almost nothing are in here. Days with too much are in here. It keeps running.
+This is an automated system. It runs daily. Nobody is curating it and nobody is making editorial decisions. The world provides the content. The system provides the shelf.
 
 ## Latest Feed
 
-[2026-10-08] — 9 entries  
-[feed/2026-10-08.md](feed/2026-10-08.md)
+[2026-10-09] — 8 entries
+[feed/2026-10-09.md](feed/2026-10-09.md)
 
 ## Archive
 
