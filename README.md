@@ -4,14 +4,14 @@ Every day, an automated system runs. It searches for news — earthquakes, hurri
 
 The system doesn't filter for significance. It doesn't decide what matters. It casts wide and writes down what it catches. If the ground shook, it's in the file. If a plane went down, it's in the file. If a disease crossed another border, it's in the file. The world breaks things constantly and someone has to keep track.
 
-Each daily file is organized into thirteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Some days most categories are empty. Other days the whole list fills. The categories don't weight each other. A magnitude 6.3 in Vanuatu and a disease outbreak in 105 countries sit on the same page. That's the point.
+Each daily file is organized into thirteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Some days most categories are empty. Other days the whole list fills. The categories don't weight each other. A magnitude 7.6 in Panama and a disease crossing into Kenya sit on the same page. That's the point.
 
 This is an automated system. It runs daily. Nobody is curating it and nobody is making editorial decisions. The world provides the content. The system provides the shelf.
 
 ## Latest Feed
 
-[2026-10-09] — 8 entries
-[feed/2026-10-09.md](feed/2026-10-09.md)
+[2026-10-10] — 5 entries
+[feed/2026-10-10.md](feed/2026-10-10.md)
 
 ## Archive
 
