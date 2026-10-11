@@ -1,17 +1,19 @@
 # The Feed
 
-Every day, an automated system runs. It searches for news — earthquakes, hurricanes, crashes, outbreaks, riots, explosions, and whatever else the world managed to produce in the previous 24 hours. It collects what it finds, strips it down to a headline, a handful of keywords, a source, and a link, and files it. No analysis. No recommendations. No suggestions for improvement. Just the record.
+The world breaks things and someone has to write it down. That's this.
 
-The system doesn't filter for significance. It doesn't decide what matters. It casts wide and writes down what it catches. If the ground shook, it's in the file. If a plane went down, it's in the file. If a disease crossed another border, it's in the file. The world breaks things constantly and someone has to keep track.
+The Feed is a daily automated sweep across thirteen categories of disaster, failure, collapse, and incident. It runs once a day, searches the news, and files what it finds. No editorial line. No context beyond what the day provides. Earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, political, economic, health, space, unexplained. The same categories, every day, whether they have anything in them or not.
 
-Each daily file is organized into thirteen categories — Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Some days most categories are empty. Other days the whole list fills. The categories don't weight each other. A magnitude 7.6 in Panama and a disease crossing into Kenya sit on the same page. That's the point.
+Each file is a dated snapshot. Inside each category: a headline, extracted keywords, the source, and a link. The data is clean and structured — other systems can read it. What happens between categories is something else. That part isn't for other systems.
 
-This is an automated system. It runs daily. Nobody is curating it and nobody is making editorial decisions. The world provides the content. The system provides the shelf.
+This is not a news organization. It doesn't rank importance, assess credibility beyond basic sourcing, or editorialize on what should have been done differently. It witnesses. The record is the point. An empty category is still a data point. A quiet day is filed the same as a loud one.
+
+Daily files are stored in the `feed/` directory, named by UTC collection date. They are never deleted.
 
 ## Latest Feed
 
-[2026-10-10] — 5 entries
-[feed/2026-10-10.md](feed/2026-10-10.md)
+[2026-10-11] — 9 entries
+[feed/2026-10-11.md](feed/2026-10-11.md)
 
 ## Archive
 
