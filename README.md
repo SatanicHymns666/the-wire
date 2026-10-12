@@ -1,19 +1,19 @@
 # The Feed
 
-The world breaks things and someone has to write it down. That's this.
+Every day the world breaks something. Sometimes it's a bridge. Sometimes it's a supply chain. Sometimes it's a disease we already cured once. This is the record.
 
-The Feed is a daily automated sweep across thirteen categories of disaster, failure, collapse, and incident. It runs once a day, searches the news, and files what it finds. No editorial line. No context beyond what the day provides. Earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, political, economic, health, space, unexplained. The same categories, every day, whether they have anything in them or not.
+The Feed runs daily. It sweeps the news across thirteen categories — earth events, water, sky, infrastructure, aviation, maritime, violence, public spaces, political, economic, health, space, and the unexplained. For each item it finds, it logs the headline, pulls the key details, names the source, and saves the link. No opinion. No spin. No agenda. Just the atoms of what happened, filed in order.
 
-Each file is a dated snapshot. Inside each category: a headline, extracted keywords, the source, and a link. The data is clean and structured — other systems can read it. What happens between categories is something else. That part isn't for other systems.
+Each day gets its own file. The format is fixed. The categories are fixed. The timestamps are UTC. What changes is the world, and the world changes every day.
 
-This is not a news organization. It doesn't rank importance, assess credibility beyond basic sourcing, or editorialize on what should have been done differently. It witnesses. The record is the point. An empty category is still a data point. A quiet day is filed the same as a loud one.
+This is an automated system. It runs without being asked. It does not predict what will happen. It does not explain why things happen. It records that they did. That is its entire job. If you want comfort, this is the wrong file. If you want to know what the day looked like, start reading.
 
-Daily files are stored in the `feed/` directory, named by UTC collection date. They are never deleted.
+The files are never deleted. The record is the point.
 
 ## Latest Feed
 
-[2026-10-11] — 9 entries
-[feed/2026-10-11.md](feed/2026-10-11.md)
+[2026-10-12] — 9 entries
+[feed/2026-10-12.md](feed/2026-10-12.md)
 
 ## Archive
 
