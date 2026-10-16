@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is an automated daily news sweep. It runs once a day, collects, and stops. No analysis. No opinion. No filter. The world breaks things and this system writes them down.
+The world breaks things on a daily basis. The Feed writes it down.
 
-Each day produces a single file organized into thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Every entry carries a headline, keywords extracted from the source, the publisher, and a link. The data is structured to be read by other systems. The voice between the categories is not.
+Every day, an automated system sweeps across categories of disaster, collapse, violence, illness, and whatever the planet decides to do to itself overnight. It collects what it finds, organizes it, and deposits the results here. No editorializing. No analysis. No take. Headlines, keywords, source, and link — the raw anatomy of a bad day, filed under the date it happened.
 
-This is not a news service. It does not editorialize, recommend, or reassure. It does not know what is important. It collects what happened and leaves it in the file. If the file is light, it was a quiet day. If it is heavy, it was not.
+Each file covers thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. If something happened in a category, it's in there. If nothing happened, it says so. The silence gets recorded too.
 
-The collection runs each day at a scheduled UTC time. Each file is a dated snapshot. Nothing is deleted.
+This is not a news service. It is not a warning system. It does not predict anything or recommend any course of action. It witnesses. It catalogs. That's the whole job. The world generates more than enough raw material without any help from us.
 
 ## Latest Feed
 
-[2026-10-15] — 12 entries
-[feed/2026-10-15.md](feed/2026-10-15.md)
+[2026-10-16] — 9 entries
+[feed/2026-10-16.md](feed/2026-10-16.md)
 
 ## Archive
 
