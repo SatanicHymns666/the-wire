@@ -1,17 +1,17 @@
 # The Feed
 
-The world breaks things on a daily basis. The Feed writes it down.
+The Feed is an automated daily news sweep. Every day, one script runs, one file gets written, one record gets added to the pile. What the world breaks is logged. What the world floods, collapses, burns, or sinks gets a line. What the world does to people in hospitals, boats, schools, and highways gets a line.
 
-Every day, an automated system sweeps across categories of disaster, collapse, violence, illness, and whatever the planet decides to do to itself overnight. It collects what it finds, organizes it, and deposits the results here. No editorializing. No analysis. No take. Headlines, keywords, source, and link — the raw anatomy of a bad day, filed under the date it happened.
+No analysis. No prediction. No opinion about what any of it means. Headlines and keywords, organized by category. Earth. Water. Sky. Infrastructure. Aviation. Maritime. Violence. Public spaces. Political. Economic. Health. Space. Whatever didn't fit the others. The file covers whatever the day produced. Some days are full. Some are quiet. The format doesn't care either way.
 
-Each file covers thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. If something happened in a category, it's in there. If nothing happened, it says so. The silence gets recorded too.
+Each entry is a headline, a list of keywords, a source, and a link. Other systems read these files. The format stays clean for a reason. The commentary between categories is not — but that's there for a different reason.
 
-This is not a news service. It is not a warning system. It does not predict anything or recommend any course of action. It witnesses. It catalogs. That's the whole job. The world generates more than enough raw material without any help from us.
+This is not journalism. It is record-keeping. The world hands over events and this system writes them down. Every file is a dated snapshot. None of them are deleted.
 
 ## Latest Feed
 
-[2026-10-16] — 9 entries
-[feed/2026-10-16.md](feed/2026-10-16.md)
+[2026-10-17] — 16 entries
+[feed/2026-10-17.md](feed/2026-10-17.md)
 
 ## Archive
 
