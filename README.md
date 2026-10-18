@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is an automated daily news sweep. Every day, one script runs, one file gets written, one record gets added to the pile. What the world breaks is logged. What the world floods, collapses, burns, or sinks gets a line. What the world does to people in hospitals, boats, schools, and highways gets a line.
+The Feed is a daily automated sweep of world events. It collects what happens — earthquakes, fires, maritime disasters, crashes, outbreaks, political developments, whatever the day produces — and writes it down without ranking, without agenda, without comfort. It runs every morning whether or not the morning deserves the attention.
 
-No analysis. No prediction. No opinion about what any of it means. Headlines and keywords, organized by category. Earth. Water. Sky. Infrastructure. Aviation. Maritime. Violence. Public spaces. Political. Economic. Health. Space. Whatever didn't fit the others. The file covers whatever the day produced. Some days are full. Some are quiet. The format doesn't care either way.
+Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Inside each category: headline, keywords, source, URL. Clean, parseable, no interpretation. The voice lives between categories, where the weight of one section reacts to the weight of the next. It starts composed and ends cracked, because that's what honest filing looks like by the time you get to the thirteenth column.
 
-Each entry is a headline, a list of keywords, a source, and a link. Other systems read these files. The format stays clean for a reason. The commentary between categories is not — but that's there for a different reason.
+The Feed does not explain why things happen. It does not editorialize about what they mean. It does not comfort and does not celebrate. It records. The world breaks things every day — pipelines, levees, aircraft, governments, people — and the Feed writes it down so there is a record somewhere. That's the whole job.
 
-This is not journalism. It is record-keeping. The world hands over events and this system writes them down. Every file is a dated snapshot. None of them are deleted.
+It has been running since May 2026. Some days are quiet. Some days have eleven people missing in shark water while a press secretary gets fired and an ambulance driver is killed by an airstrike and the Ebola count updates. The Feed doesn't distinguish between those days. It files them all.
 
 ## Latest Feed
 
-[2026-10-17] — 16 entries
-[feed/2026-10-17.md](feed/2026-10-17.md)
+[2026-10-18] — 10 entries
+[feed/2026-10-18.md](feed/2026-10-18.md)
 
 ## Archive
 
