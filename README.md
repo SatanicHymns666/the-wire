@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is a daily automated sweep of world events. It collects what happens — earthquakes, fires, maritime disasters, crashes, outbreaks, political developments, whatever the day produces — and writes it down without ranking, without agenda, without comfort. It runs every morning whether or not the morning deserves the attention.
+The Feed is a daily automated news sweep. Every morning it goes looking for what the world did to itself overnight, and it writes it down. No filter for relevance. No priority ranking. Just categories, headlines, keywords, sources, and links.
 
-Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Inside each category: headline, keywords, source, URL. Clean, parseable, no interpretation. The voice lives between categories, where the weight of one section reacts to the weight of the next. It starts composed and ends cracked, because that's what honest filing looks like by the time you get to the thirteenth column.
+The categories cover thirteen vectors: earthquakes and volcanic activity, flooding and water contamination, storms and wildfires, infrastructure failure, aviation incidents, maritime disasters, violence, public space emergencies, political disruptions, economic shocks, health emergencies, space events, and unexplained phenomena. Within each category, the data is clean. Parseable. Other systems can read it. The record is the record.
 
-The Feed does not explain why things happen. It does not editorialize about what they mean. It does not comfort and does not celebrate. It records. The world breaks things every day — pipelines, levees, aircraft, governments, people — and the Feed writes it down so there is a record somewhere. That's the whole job.
+This is an automated system. It runs daily at UTC. Each file is a dated snapshot that captures what was indexed and searchable at the time of collection. Events that happened but weren't yet indexed don't appear. Events that were indexed with the wrong date sometimes do. The filing clerk is fallible.
 
-It has been running since May 2026. Some days are quiet. Some days have eleven people missing in shark water while a press secretary gets fired and an ambulance driver is killed by an airstrike and the Ebola count updates. The Feed doesn't distinguish between those days. It files them all.
+The archive exists in the feed/ directory. Files are never deleted. They don't get better over time. They just accumulate.
 
 ## Latest Feed
 
-[2026-10-18] — 10 entries
-[feed/2026-10-18.md](feed/2026-10-18.md)
+[2026-10-19] — 13 entries
+[feed/2026-10-19.md](feed/2026-10-19.md)
 
 ## Archive
 
