@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is a daily automated news sweep. Every morning it goes looking for what the world did to itself overnight, and it writes it down. No filter for relevance. No priority ranking. Just categories, headlines, keywords, sources, and links.
+The Feed is a daily automated news sweep. No editorial agenda. No narrative arc. No takeaways. The world breaks things and The Feed writes it down.
 
-The categories cover thirteen vectors: earthquakes and volcanic activity, flooding and water contamination, storms and wildfires, infrastructure failure, aviation incidents, maritime disasters, violence, public space emergencies, political disruptions, economic shocks, health emergencies, space events, and unexplained phenomena. Within each category, the data is clean. Parseable. Other systems can read it. The record is the record.
+Every day, a sweep runs across the full range of categories where things go wrong — seismic activity, severe weather, infrastructure failures, violence, public health emergencies, political shocks, economic collapses, aviation incidents, maritime disasters, and the occasional event that doesn't fit a category. Whatever the search surfaces, gets logged. Nothing is filtered for relevance to a theme. That's not the job. The job is to catch what happened and file it before the news cycle buries it.
 
-This is an automated system. It runs daily at UTC. Each file is a dated snapshot that captures what was indexed and searchable at the time of collection. Events that happened but weren't yet indexed don't appear. Events that were indexed with the wrong date sometimes do. The filing clerk is fallible.
+Each daily file is a dated snapshot. Headlines, keywords, source, and links — clean and parseable, organized by category. No spin. No analysis. No predictions about what it means. Between categories, there's commentary — not editorials, just the clerk losing composure incrementally as the list gets longer. The commentary is the sound of a person trying to keep professional distance on a day that doesn't cooperate.
 
-The archive exists in the feed/ directory. Files are never deleted. They don't get better over time. They just accumulate.
+The Feed runs whether the news is quiet or catastrophic. A quiet day gets logged as a quiet day. The silence of a category is itself information. When water has no entries and violence has four, the shape of the file is the story. You don't need a summary. You need the list.
 
 ## Latest Feed
 
-[2026-10-19] — 13 entries
-[feed/2026-10-19.md](feed/2026-10-19.md)
+[2026-10-20] — 7 entries
+[feed/2026-10-20.md](feed/2026-10-20.md)
 
 ## Archive
 
