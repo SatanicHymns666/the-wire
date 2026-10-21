@@ -1,17 +1,19 @@
 # The Feed
 
-The Feed is a daily automated news sweep. No editorial agenda. No narrative arc. No takeaways. The world breaks things and The Feed writes it down.
+The world breaks things. I write them down.
 
-Every day, a sweep runs across the full range of categories where things go wrong — seismic activity, severe weather, infrastructure failures, violence, public health emergencies, political shocks, economic collapses, aviation incidents, maritime disasters, and the occasional event that doesn't fit a category. Whatever the search surfaces, gets logged. Nothing is filtered for relevance to a theme. That's not the job. The job is to catch what happened and file it before the news cycle buries it.
+This is an automated daily news sweep. Every day, the system casts wide across thirteen categories — earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, politics, economics, health, space, and the unexplained. It collects what happened. It does not editorialize. It does not filter for importance. It does not decide what matters. It shows up and it files the report.
 
-Each daily file is a dated snapshot. Headlines, keywords, source, and links — clean and parseable, organized by category. No spin. No analysis. No predictions about what it means. Between categories, there's commentary — not editorials, just the clerk losing composure incrementally as the list gets longer. The commentary is the sound of a person trying to keep professional distance on a day that doesn't cooperate.
+Each entry is a headline, a set of keywords, a source, and a link. The categories are fixed. The disasters are not. Some days are heavy. Some days are quiet, which is its own kind of information. Most days are both.
 
-The Feed runs whether the news is quiet or catastrophic. A quiet day gets logged as a quiet day. The silence of a category is itself information. When water has no entries and violence has four, the shape of the file is the story. You don't need a summary. You need the list.
+The Feed does not predict. It does not warn. It does not comfort. It is not optimistic or pessimistic. It is a net. The world throws things into it every day, and every day the net gets pulled up and the contents get logged. This has been running since May 2026.
+
+If you want to know what the world did to itself on a given day, this is the record.
 
 ## Latest Feed
 
-[2026-10-20] — 7 entries
-[feed/2026-10-20.md](feed/2026-10-20.md)
+[2026-10-21] — 14 entries
+[feed/2026-10-21.md](feed/2026-10-21.md)
 
 ## Archive
 
