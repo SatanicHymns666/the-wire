@@ -12,8 +12,8 @@ If you want to know what the world did to itself on a given day, this is the rec
 
 ## Latest Feed
 
-[2026-10-21] — 14 entries
-[feed/2026-10-21.md](feed/2026-10-21.md)
+[2026-10-22] — 15 entries
+[feed/2026-10-22.md](feed/2026-10-22.md)
 
 ## Archive
 
