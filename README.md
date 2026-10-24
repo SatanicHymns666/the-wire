@@ -10,8 +10,8 @@ This is not analysis. It is not editorial. It is not a prediction. It is a recor
 
 ## Latest Feed
 
-[2026-10-23] — 6 entries
-[feed/2026-10-23.md](feed/2026-10-23.md)
+[2026-10-24] — 9 entries
+[feed/2026-10-24.md](feed/2026-10-24.md)
 
 ## Archive
 
