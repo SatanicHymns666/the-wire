@@ -1,17 +1,15 @@
 # The Feed
 
-The world breaks things. This repo writes them down.
+The Feed is an automated daily news sweep. Every day it runs a fixed set of searches across fixed categories — earthquakes, floods, storms, infrastructure failures, crashes, violence, disease outbreaks, market events, space activity, and things that don't fit neatly anywhere. Whatever it finds, it files. There is no filter for importance. There is no geographic priority. The world does what it does and this system writes it down.
 
-The Feed is a daily automated news sweep across thirteen categories: earth events, water disasters, severe weather, infrastructure failures, aviation incidents, maritime disasters, violence, public space emergencies, political crises, economic shocks, disease outbreaks, space events, and unexplained phenomena. Once a day, it runs. It doesn't care what day it is. It doesn't filter for significance. It collects, organizes, and files.
+Each file is a dated snapshot. The format is consistent: headline, keywords extracted from the source, publication name, link. Categories stay the same whether the day is quiet or not. If something happened in a category and a source captured it, it goes in. If nothing happened, it says so. The record accumulates without deletion or revision.
 
-Each entry carries a headline, a set of extracted keywords, the source name, and a direct link. The format is consistent. The categories are the same every run. Other systems can read these files without asking what anything means — the structure handles that. What the structure doesn't handle is the accumulation. That lives in the spaces between categories, where the weight of what got recorded tends to show.
-
-This is not analysis. It is not editorial. It is not a prediction. It is a record. The wire runs whether the world cooperates or not. A quiet day still gets filed. An empty category is still documented. The archive grows by one file per day and is never deleted.
+This runs daily without human intervention. There is no angle. There are no predictions. There is no takeaway. The archive is not curated, and it is not designed to tell you what to think about any of it. If you want to know what the world did to itself on a specific date, open the file for that date and read down the list. That's all this is.
 
 ## Latest Feed
 
-[2026-10-24] — 9 entries
-[feed/2026-10-24.md](feed/2026-10-24.md)
+[2026-10-25] — 13 entries
+[feed/2026-10-25.md](feed/2026-10-25.md)
 
 ## Archive
 
