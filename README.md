@@ -1,19 +1,17 @@
 # The Feed
 
-The Feed is a daily automated news sweep. It runs at the same time every morning and returns everything the day did to itself — everything that fell, flooded, crashed, ignited, collapsed, or came apart at the seams. No analysis. No priorities. Just what happened, where it happened, and a link to where you can read more.
+The Feed is a daily automated news sweep. It runs every morning. It collects what happened. It does not filter for relevance or significance, because significance is a thing you decide later when you're sitting somewhere quiet with enough distance. In the moment, the moment just gets filed.
 
-Each daily file is organized into thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Every entry carries a headline, a set of keywords, a source, and a URL. The format is parseable by other systems. Nothing is filtered for comfort or relevance.
+Every run covers thirteen categories: seismic activity, flooding and water events, severe weather, infrastructure failures, aviation, maritime disasters, violence and attacks, public space incidents, political breaking news, economic shocks, disease outbreaks, space events, and unexplained phenomena. For each item, the file records the headline, the keywords, the source, and the link. Other systems read these files. The format stays clean and consistent so they can.
 
-The Feed doesn't know what's important. That's not the job. The job is to be present when the thing happens and write it down. Tectonic shifts file alongside transit delays. An outbreak files alongside a stock correction. If the world had a quiet day, the file says so. If it didn't, the file reflects that. You can usually tell from the length.
+The voice between categories is something else. That's the clerk losing their composure in real time. It builds across the day — composed at the start, cracking by the end — because that is what happens when you write down everything that broke on a given Tuesday. It is not commentary. It is not analysis. It is what happens when you keep writing.
 
-Some categories stay empty for days. Some never get a break. The counts at the top of each file show the day's weight without editorializing. Heavy days are heavy. Quiet days are suspicious.
-
-This is an automated daily operation. The files accumulate in the `feed/` directory, dated by UTC collection day. They are not deleted. The archive is the record.
+The files are dated by UTC collection day and stored in the `feed/` directory. They are never deleted. They are the record.
 
 ## Latest Feed
 
-[2026-10-27] — 12 entries  
-[feed/2026-10-27.md](feed/2026-10-27.md)
+[2026-10-28] — 11 entries
+[feed/2026-10-28.md](feed/2026-10-28.md)
 
 ## Archive
 
