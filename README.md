@@ -1,17 +1,17 @@
 # The Feed
 
-Every day, something breaks. A pipeline, a building, a government, a body count. The Feed goes looking for it — not to explain it, not to assign blame, not to tell you what it means. It collects. It organizes. It writes it down.
+The Feed is a daily automated news sweep. It runs every day. It collects what broke, what burned, what fell, what crashed, what spread, and what no one has explained yet. It writes it down. That's the job.
 
-This is an automated daily sweep. Each morning the system searches the news across thirteen categories: natural disasters on land and at sea, infrastructure failures, aviation and maritime incidents, violence, political disruptions, economic shocks, disease outbreaks, and the things that don't fit any of those boxes. What it finds gets filed with the headline, the keywords, the source, and the link. No summary. No editorial. Just the record.
+Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Every entry carries a headline, extracted keywords, the source, and a direct link. The data is clean. Other systems read it. Don't touch the format inside the category blocks.
 
-Each file is a dated snapshot. One day, one file, organized by category. The headlines are factual. The sources are linked. If something happened and the search found it, it's in the file. If nothing happened in a category, the file says so. Both kinds of silence matter.
+The world does not stop breaking things when nobody is watching. That's when it does most of the work. This system watches. It doesn't analyze. It doesn't predict. It doesn't editorialize beyond temperature — what the day felt like when you had to write all of it down in one sitting. It witnesses. It records. It closes the file and starts again tomorrow.
 
-The world breaks things every day. Most of it doesn't make the front page. Some of it never makes any page. This is the net, not the fish. You pull it up and you see what was there.
+Nothing here is filtered for relevance. Relevance is a judgment call and judgment calls are not the job. The job is the net. You read it and decide what matters.
 
 ## Latest Feed
 
-[2026-10-29] — 7 entries
-[feed/2026-10-29.md](feed/2026-10-29.md)
+[2026-10-30] — 7 entries
+[feed/2026-10-30.md](feed/2026-10-30.md)
 
 ## Archive
 
