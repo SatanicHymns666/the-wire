@@ -1,17 +1,19 @@
 # The Feed
 
-The Feed is a daily automated news sweep. It runs every day. It collects what broke, what burned, what fell, what crashed, what spread, and what no one has explained yet. It writes it down. That's the job.
+The world breaks things. This is where that gets written down.
 
-Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Every entry carries a headline, extracted keywords, the source, and a direct link. The data is clean. Other systems read it. Don't touch the format inside the category blocks.
+Every day, an automated system sweeps the news across thirteen categories — earth events, weather, water, infrastructure, aviation, maritime, violence, public spaces, political crises, economic shocks, health emergencies, space events, and things that don't fit anywhere else. What it finds, it logs. What it doesn't find, it notes as absent. The absence is part of the record too.
 
-The world does not stop breaking things when nobody is watching. That's when it does most of the work. This system watches. It doesn't analyze. It doesn't predict. It doesn't editorialize beyond temperature — what the day felt like when you had to write all of it down in one sitting. It witnesses. It records. It closes the file and starts again tomorrow.
+Each file is a dated snapshot. One entry per event: a headline, a set of keywords, a source, a URL. No analysis. No recommendations. No predictions. The system collects and organizes. You can draw your own conclusions or you can not. Either way, the log exists.
 
-Nothing here is filtered for relevance. Relevance is a judgment call and judgment calls are not the job. The job is the net. You read it and decide what matters.
+This runs daily. It does not take days off. It does not have opinions about what it finds, though it has a voice — blunt, irreverent, and increasingly strained as the file gets heavier. The voice is a side effect of the filing, not the point. The point is the record.
+
+The files are never deleted.
 
 ## Latest Feed
 
-[2026-10-30] — 7 entries
-[feed/2026-10-30.md](feed/2026-10-30.md)
+[2026-10-31] — 9 entries
+[feed/2026-10-31.md](feed/2026-10-31.md)
 
 ## Archive
 
