@@ -1,19 +1,17 @@
 # The Feed
 
-The world breaks things. This is where that gets written down.
+The Feed is a daily automated news sweep. It runs every day, whether or not the news cooperates. Something moves, something burns, something sinks, something collapses — The Feed writes it down. No analysis. No context. No comfort. Just the inventory of what the world did to itself while most people were looking the other way.
 
-Every day, an automated system sweeps the news across thirteen categories — earth events, weather, water, infrastructure, aviation, maritime, violence, public spaces, political crises, economic shocks, health emergencies, space events, and things that don't fit anywhere else. What it finds, it logs. What it doesn't find, it notes as absent. The absence is part of the record too.
+Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Every entry carries a headline, keywords extracted from the source material, the outlet that reported it, and a direct link. The data is clean and machine-readable. The space between categories is not.
 
-Each file is a dated snapshot. One entry per event: a headline, a set of keywords, a source, a URL. No analysis. No recommendations. No predictions. The system collects and organizes. You can draw your own conclusions or you can not. Either way, the log exists.
+The system pulls from dozens of search queries across every category, deduplicates against prior runs, and logs only what's new. It doesn't judge the severity. It doesn't weigh one disaster against another. A magnitude 6.1 earthquake that hurt no one and an Ebola outbreak that has killed over a thousand people both make the list, because the list is a record, not a ranking. You decide what to do with it.
 
-This runs daily. It does not take days off. It does not have opinions about what it finds, though it has a voice — blunt, irreverent, and increasingly strained as the file gets heavier. The voice is a side effect of the filing, not the point. The point is the record.
-
-The files are never deleted.
+Empty categories are noted. They're not always reassuring.
 
 ## Latest Feed
 
-[2026-10-31] — 9 entries
-[feed/2026-10-31.md](feed/2026-10-31.md)
+[2026-11-01] — 5 entries
+[feed/2026-11-01.md](feed/2026-11-01.md)
 
 ## Archive
 
