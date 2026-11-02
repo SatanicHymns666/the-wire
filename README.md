@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is a daily automated news sweep. It runs every day, whether or not the news cooperates. Something moves, something burns, something sinks, something collapses — The Feed writes it down. No analysis. No context. No comfort. Just the inventory of what the world did to itself while most people were looking the other way.
+The Feed is a daily automated sweep of global news, organized by category, filed without editorial agenda. It runs every day. It collects. It records. It moves on.
 
-Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Every entry carries a headline, keywords extracted from the source material, the outlet that reported it, and a direct link. The data is clean and machine-readable. The space between categories is not.
+Each daily file is a dated snapshot of what the world did to itself in a twenty-four-hour window. Earthquakes. Floods. Aviation disasters. Mass casualty events. Outbreaks. Political crises. Economic collapses. Strange things in the sky. Everything that broke, capsized, collapsed, ignited, or spread. Headlines, keywords, source, and a direct link — structured for machines, readable by humans.
 
-The system pulls from dozens of search queries across every category, deduplicates against prior runs, and logs only what's new. It doesn't judge the severity. It doesn't weigh one disaster against another. A magnitude 6.1 earthquake that hurt no one and an Ebola outbreak that has killed over a thousand people both make the list, because the list is a record, not a ranking. You decide what to do with it.
+This is not analysis. This is not commentary, except between categories where the accumulation earns a reaction. The reaction belongs to the clerk, not the events. The events speak for themselves. The clerk just types faster as the day gets heavier.
 
-Empty categories are noted. They're not always reassuring.
+The system runs daily at the same time. It looks at the same categories. It is not trying to find patterns. It is not trying to tell you what any of this means. Meaning is not its job. Filing is its job.
 
 ## Latest Feed
 
-[2026-11-01] — 5 entries
-[feed/2026-11-01.md](feed/2026-11-01.md)
+[2026-11-02] — 5 entries
+[feed/2026-11-02.md](feed/2026-11-02.md)
 
 ## Archive
 
