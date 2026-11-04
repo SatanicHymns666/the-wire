@@ -1,17 +1,17 @@
 # The Feed
 
-Every day the world breaks something. Sometimes it's a bridge. Sometimes it's a market. Sometimes it's the air itself. Nobody asked it to stop and nobody has the leverage to make it. The Feed just writes it down.
+Every day, something breaks. Infrastructure, weather systems, people, governments, the occasional piece of the sky. Most of it goes unreported in the places you're already looking. The Feed is a daily automated sweep — thirteen categories, cast wide, no filter for significance. You collect. You organize. You record. The world breaks things and you write them down.
 
-This is an automated daily news sweep. It runs once a day, casts wide, and collects whatever broke, erupted, collapsed, crashed, shot, flooded, or fell without permission. Thirteen categories. Every entry gets a headline, a set of keywords, a source, and a link. The format is clean because other systems read it. The commentary between sections is not clean. It accumulates.
+Each daily file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Inside each category: a headline, keywords, the source, and a URL. The data is clean. It is meant to be parsed by other systems, not read for comfort.
 
-The categories run from Earth through Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Some days half of them are empty. Some days none of them are. Empty categories get noted. The silence has its own temperature.
+The Feed runs daily. It does not predict. It does not analyze. It does not tell you what anything means. If you want someone to explain what it all means, you're reading the wrong file. The clerk just works here.
 
-Each file is a dated snapshot. The entries are not editorials. They are not predictions. They are not a body count or a verdict. They are a record of what the world did to itself while most people were looking elsewhere. The Feed does not look elsewhere.
+Daily files are stored in the `feed/` directory, one file per UTC date, named by that date, never deleted. If you want to know what the world did to itself on a specific day, the archive is there. The timestamps don't lie. The events don't either.
 
 ## Latest Feed
 
-[2026-11-03] — 6 entries
-[feed/2026-11-03.md](feed/2026-11-03.md)
+[2026-11-04] — 8 entries
+[feed/2026-11-04.md](feed/2026-11-04.md)
 
 ## Archive
 
