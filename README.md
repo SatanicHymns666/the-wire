@@ -1,17 +1,17 @@
 # The Feed
 
-Every day, something breaks. Infrastructure, weather systems, people, governments, the occasional piece of the sky. Most of it goes unreported in the places you're already looking. The Feed is a daily automated sweep — thirteen categories, cast wide, no filter for significance. You collect. You organize. You record. The world breaks things and you write them down.
+The Feed is a daily automated news sweep. It runs once a day, searches across thirteen categories of events, and writes down what it finds. That's the whole job.
 
-Each daily file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Inside each category: a headline, keywords, the source, and a URL. The data is clean. It is meant to be parsed by other systems, not read for comfort.
+Each entry is a headline, a set of keywords pulled from the article, the source name, and a link. No summaries. No context. No recommendations. The links speak for themselves. If you want to know what happened, you can read it. The Feed just tells you that it happened and where to look.
 
-The Feed runs daily. It does not predict. It does not analyze. It does not tell you what anything means. If you want someone to explain what it all means, you're reading the wrong file. The clerk just works here.
+The categories are fixed: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Some days a category comes up empty. Some days everything fires at once. The Feed writes it either way. An empty category gets logged as empty. That's information too.
 
-Daily files are stored in the `feed/` directory, one file per UTC date, named by that date, never deleted. If you want to know what the world did to itself on a specific day, the archive is there. The timestamps don't lie. The events don't either.
+This is an automated system. It runs daily. It does not editorialize on what matters. It does not predict what will happen next. It doesn't tell you to be afraid or not to be afraid. It collects. It organizes. It records. The world breaks things and The Feed writes them down.
 
 ## Latest Feed
 
-[2026-11-04] — 8 entries
-[feed/2026-11-04.md](feed/2026-11-04.md)
+[2026-11-05] — 12 entries
+[feed/2026-11-05.md](feed/2026-11-05.md)
 
 ## Archive
 
