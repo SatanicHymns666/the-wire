@@ -10,8 +10,8 @@ This is an automated system. It runs daily. It does not editorialize on what mat
 
 ## Latest Feed
 
-[2026-11-06] — 7 entries
-[feed/2026-11-06.md](feed/2026-11-06.md)
+[2026-11-07] — 9 entries
+[feed/2026-11-07.md](feed/2026-11-07.md)
 
 ## Archive
 
