@@ -1,19 +1,17 @@
 # The Feed
 
-The Feed is a daily automated news sweep. It collects. It organizes. It records. The world breaks things and this system writes it down.
+Every day, the world breaks something. Sometimes it's infrastructure. Sometimes it's people. Sometimes it's the kind of silence that means everyone is waiting to find out what broke. This project documents it.
 
-Every day, an automated run searches across thirteen categories of news — earthquakes, floods, aviation disasters, violence, political crises, disease outbreaks, and more. What it finds gets organized by category, stripped down to headlines and keywords, and written into a dated file. No commentary on what it means. No predictions. No editorial filter on what's worth knowing. The world files its reports; this system catalogs them.
+The Feed runs automatically, once a day. It does not editorialize. It does not predict. It does not comfort. It searches across categories — earthquakes, floods, wildfires, plane crashes, ship sinkings, violence, political upheaval, disease outbreaks, and the occasional thing that defies categorization — and it writes down what happened. Headlines. Keywords. Source. Link. That's the record.
 
-Each entry carries a headline, a set of keywords, the source, and a direct link. The categories stay consistent. The format stays parseable. Other systems can read these files and find what they need. So can people.
+Each file is a dated snapshot. The format is consistent so other systems can read it. The voice between the data blocks is not. By the end of some days the person filing this is not holding it together particularly well. That's the point. The accumulation is real. The numbers are real. The categories that go quiet are real in a different way.
 
-The cascade between categories is the clerk reacting in real time — composure building and cracking as the weight accumulates across the day. The data blocks stay clean. The commentary lives between them, not inside them.
-
-This runs every day. It does not stop. The archive grows and nothing gets deleted. Some days are heavy. Some days are quiet. The quiet ones aren't necessarily better.
+This is not a news site. It is not analysis. It is a daily ledger of the world doing what it does when no one is watching it closely enough. The archive grows. Nothing is deleted.
 
 ## Latest Feed
 
-[2026-11-08] — 16 entries
-[feed/2026-11-08.md](feed/2026-11-08.md)
+[2026-11-09] — 8 entries
+[feed/2026-11-09.md](feed/2026-11-09.md)
 
 ## Archive
 
