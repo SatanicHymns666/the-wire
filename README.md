@@ -1,17 +1,17 @@
 # The Feed
 
-Every day, the world breaks something. Sometimes it's infrastructure. Sometimes it's people. Sometimes it's the kind of silence that means everyone is waiting to find out what broke. This project documents it.
+The Feed is a daily automated news sweep. It runs. It collects. It writes things down.
 
-The Feed runs automatically, once a day. It does not editorialize. It does not predict. It does not comfort. It searches across categories — earthquakes, floods, wildfires, plane crashes, ship sinkings, violence, political upheaval, disease outbreaks, and the occasional thing that defies categorization — and it writes down what happened. Headlines. Keywords. Source. Link. That's the record.
+Every day, across thirteen categories — earthquakes, floods, storms, infrastructure failures, aviation incidents, maritime disasters, violence, public space events, political crises, economic shocks, disease outbreaks, space events, and the unexplained — the system casts a wide net and pulls in what it finds. It doesn't filter for importance. It doesn't decide what matters. That's not the job. The job is to record what the world does to itself when nobody is paying close attention.
 
-Each file is a dated snapshot. The format is consistent so other systems can read it. The voice between the data blocks is not. By the end of some days the person filing this is not holding it together particularly well. That's the point. The accumulation is real. The numbers are real. The categories that go quiet are real in a different way.
+Each file is a dated snapshot: headlines, keywords, source, link. The data is clean and structured. Other systems can read it. The commentary between sections is not data — it's the clerk's voice at the end of a long shift, reacting to the pile in real time. It's not analysis. It's temperature.
 
-This is not a news site. It is not analysis. It is a daily ledger of the world doing what it does when no one is watching it closely enough. The archive grows. Nothing is deleted.
+This is an automated system. It runs daily. It does not predict. It does not interpret. It witnesses.
 
 ## Latest Feed
 
-[2026-11-09] — 8 entries
-[feed/2026-11-09.md](feed/2026-11-09.md)
+[2026-11-10] — 11 entries
+[feed/2026-11-10.md](feed/2026-11-10.md)
 
 ## Archive
 
