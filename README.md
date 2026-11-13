@@ -1,17 +1,17 @@
 # The Feed
 
-The world breaks things every day. This is where it gets written down.
+The Feed is a daily automated news sweep. Every day it runs the same searches across the same categories: earthquakes, floods, wildfires, infrastructure failures, violence, political upheaval, economic crashes, disease outbreaks, space events, and the category nobody wants to have entries in. It collects. It organizes. It records. The world breaks things and The Feed writes it down.
 
-The Feed is an automated daily news sweep that runs once at the top of each UTC day. It searches across thirteen categories: earthquakes, eruptions, floods, storms, infrastructure failures, aviation incidents, maritime disasters, violence, political upheaval, economic crashes, disease outbreaks, space events, and unexplained phenomena. It finds what happened. It records it. It does not explain it, editorialize it, or give it meaning. The world supplies the events. This system supplies the index.
+Each file is a dated snapshot. Headlines, keywords, source, and links — structured for other systems to read, organized by event type, deduplication-checked against the previous day. The commentary between sections is a byproduct of the filing process. It is not analysis. It is not editorial. It is what happens when you spend enough hours writing down what the world does to itself.
 
-Each file is a dated snapshot — one file per day, organized by category, with headlines, keywords, source names, and direct links to the original reporting. The format is intentional: structured enough for other systems to parse, human enough to read straight through. No spin. No narrative arc. Just what the planet did to itself between midnight and midnight.
+This is an automated system. It runs daily. It does not filter for importance. It does not decide what matters. It casts wide and writes down what it finds. Some days are heavy. Some days are quiet. The quiet days are the ones that feel wrong.
 
-This is not a news site. It does not compete with journalists or replace them. It is a net, cast daily, logged without judgment. Some days the net comes up full. Some days it comes up empty. Both are worth recording.
+The archive goes back to late May 2026. The feeds are never deleted.
 
 ## Latest Feed
 
-[2026-11-12] — 13 entries
-[feed/2026-11-12.md](feed/2026-11-12.md)
+[2026-11-13] — 14 entries
+[feed/2026-11-13.md](feed/2026-11-13.md)
 
 ## Archive
 
