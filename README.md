@@ -1,17 +1,21 @@
 # The Feed
 
-The Feed is a daily automated news sweep. It runs once a day, searches for real events across thirteen categories — earthquakes, floods, storms, infrastructure failures, aviation incidents, maritime disasters, violence, mass gatherings, political crises, economic shocks, disease outbreaks, space events, and unexplained phenomena — and writes down what it finds.
+The world moves fast. Most of it moves without being noticed. The Feed is a daily automated news sweep that tries to notice.
 
-No filters. No priorities. The world breaks things and this system writes them down. Headlines are factual. Keywords are stripped to the atoms of the event. Sources are linked. Categories are consistent. Everything is dated.
+Every day, an automated system searches across thirteen categories of events: earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, political, economic, health, space, and unexplained. It collects what it finds. It organizes it. It writes it down. That's all it does.
 
-Each file is a snapshot of a single day, organized by category, logged with headlines, keywords, source name, and direct URL. The tone is dry, blunt, and irreverent. It does not comfort. It does not celebrate. It witnesses. The file does not explain what anything means. That's not its job.
+Each daily file is a dated snapshot. Headlines, keywords, source, and links. Factual. Structured. Parseable. The kind of thing other systems can read without stumbling. Each entry is a thing that happened, as close to the moment it happened as the system could get. No filter. No editorial frame. No assessment of importance. Important things get the same treatment as the ones that probably aren't.
 
-The system runs whether the day is quiet or catastrophic. Silence in a category gets noted. Accumulation gets noted.
+The system runs daily whether or not anything happened. When categories are empty, they say so. When sources conflict, the links survive and the discrepancy is yours to resolve. This is not a curation service. It's a net.
+
+It's automated. It runs on a schedule. No one is watching it happen in real time. The files accumulate, dated by collection day. They are never deleted. The archive is the whole point.
+
+The world breaks things. The Feed writes it down.
 
 ## Latest Feed
 
-[2026-11-14] — 10 entries
-[feed/2026-11-14.md](feed/2026-11-14.md)
+[2026-11-15] — 10 entries
+[feed/2026-11-15.md](feed/2026-11-15.md)
 
 ## Archive
 
