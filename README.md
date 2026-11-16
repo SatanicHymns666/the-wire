@@ -1,21 +1,17 @@
 # The Feed
 
-The world moves fast. Most of it moves without being noticed. The Feed is a daily automated news sweep that tries to notice.
+The Feed is an automated daily news collection. It runs every day, sweeps for breaking events across thirteen categories, and writes them down. That's the whole job.
 
-Every day, an automated system searches across thirteen categories of events: earth, water, sky, infrastructure, aviation, maritime, violence, public spaces, political, economic, health, space, and unexplained. It collects what it finds. It organizes it. It writes it down. That's all it does.
+Each file is a dated snapshot: headlines, keywords, source, and a link. No opinions about what it means. No predictions about what happens next. The world breaks things. The Feed records it.
 
-Each daily file is a dated snapshot. Headlines, keywords, source, and links. Factual. Structured. Parseable. The kind of thing other systems can read without stumbling. Each entry is a thing that happened, as close to the moment it happened as the system could get. No filter. No editorial frame. No assessment of importance. Important things get the same treatment as the ones that probably aren't.
+Categories: earthquakes, eruptions, flooding, wildfires, infrastructure failures, aviation incidents, maritime disasters, violence, political upheaval, economic collapse, disease outbreaks, space events, and unexplained phenomena. If it happened and it indexed, it's in here. No filter for relevance. No editorial judgment about what matters. Just the net, cast wide.
 
-The system runs daily whether or not anything happened. When categories are empty, they say so. When sources conflict, the links survive and the discrepancy is yours to resolve. This is not a curation service. It's a net.
-
-It's automated. It runs on a schedule. No one is watching it happen in real time. The files accumulate, dated by collection day. They are never deleted. The archive is the whole point.
-
-The world breaks things. The Feed writes it down.
+The files are plain markdown. They are organized the same way every day. They are never deleted.
 
 ## Latest Feed
 
-[2026-11-15] — 10 entries
-[feed/2026-11-15.md](feed/2026-11-15.md)
+[2026-11-16] — 20 entries
+[feed/2026-11-16.md](feed/2026-11-16.md)
 
 ## Archive
 
