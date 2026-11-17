@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is an automated daily news collection. It runs every day, sweeps for breaking events across thirteen categories, and writes them down. That's the whole job.
+Every day, the same thing happens: the world breaks itself in a dozen different ways, and nobody's keeping score. This is the score.
 
-Each file is a dated snapshot: headlines, keywords, source, and a link. No opinions about what it means. No predictions about what happens next. The world breaks things. The Feed records it.
+The Feed is an automated daily news sweep. It runs every 24 hours and collects headlines across 13 categories — earth events, water disasters, sky emergencies, infrastructure failures, aviation incidents, maritime disasters, violence, public space tragedies, political crises, economic shocks, health emergencies, space events, and unexplained phenomena. It records what it finds. It doesn't editorialize. It doesn't rank by importance. It doesn't decide what matters. It catches what it can.
 
-Categories: earthquakes, eruptions, flooding, wildfires, infrastructure failures, aviation incidents, maritime disasters, violence, political upheaval, economic collapse, disease outbreaks, space events, and unexplained phenomena. If it happened and it indexed, it's in here. No filter for relevance. No editorial judgment about what matters. Just the net, cast wide.
+Each daily file is a dated snapshot. Every entry has a headline, a set of keywords, a source, and a URL. That's the data. The rest — the in-between commentary, the temperature of the day — is just the clerk's handwriting in the margins, getting messier as the shift wears on.
 
-The files are plain markdown. They are organized the same way every day. They are never deleted.
+This is not a news site. It's not analysis. It's not a warning system. It's a record. The world makes the content. The Feed just writes it down.
 
 ## Latest Feed
 
-[2026-11-16] — 20 entries
-[feed/2026-11-16.md](feed/2026-11-16.md)
+[2026-11-17] — 11 entries
+[feed/2026-11-17.md](feed/2026-11-17.md)
 
 ## Archive
 
