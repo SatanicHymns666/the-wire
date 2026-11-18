@@ -1,17 +1,17 @@
 # The Feed
 
-Every day, the same thing happens: the world breaks itself in a dozen different ways, and nobody's keeping score. This is the score.
+The Feed is an automated daily news sweep. It runs every day. It collects. It organizes. It records. The world breaks things and the Feed writes it down.
 
-The Feed is an automated daily news sweep. It runs every 24 hours and collects headlines across 13 categories — earth events, water disasters, sky emergencies, infrastructure failures, aviation incidents, maritime disasters, violence, public space tragedies, political crises, economic shocks, health emergencies, space events, and unexplained phenomena. It records what it finds. It doesn't editorialize. It doesn't rank by importance. It doesn't decide what matters. It catches what it can.
+Each file is a dated snapshot — one for each calendar day — organized into thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Within each category: a headline, keywords, the source outlet, and a direct link. That's the whole structure. No analysis. No prediction. No agenda. Just what happened, compressed into atoms.
 
-Each daily file is a dated snapshot. Every entry has a headline, a set of keywords, a source, and a URL. That's the data. The rest — the in-between commentary, the temperature of the day — is just the clerk's handwriting in the margins, getting messier as the shift wears on.
+The system is automated. Nobody is sitting at a desk doing this. When the day ends, the file exists. That's the transaction. Categories that come up empty say so. Days that come up quiet across the board get noted too — usually with more suspicion than relief, because quiet days are rarely what they look like.
 
-This is not a news site. It's not analysis. It's not a warning system. It's a record. The world makes the content. The Feed just writes it down.
+The archive keeps every day that has been collected. Nothing is deleted. If you want to know what the world did to itself on any given day, it's in there.
 
 ## Latest Feed
 
-[2026-11-17] — 11 entries
-[feed/2026-11-17.md](feed/2026-11-17.md)
+[2026-11-18] — 16 entries
+[feed/2026-11-18.md](feed/2026-11-18.md)
 
 ## Archive
 
