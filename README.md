@@ -10,8 +10,8 @@ The archive keeps every day that has been collected. Nothing is deleted. If you 
 
 ## Latest Feed
 
-[2026-11-19] — 13 entries
-[feed/2026-11-19.md](feed/2026-11-19.md)
+[2026-11-20] — 11 entries
+[feed/2026-11-20.md](feed/2026-11-20.md)
 
 ## Archive
 
