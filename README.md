@@ -1,19 +1,17 @@
 # The Feed
 
-The world breaks things. This project writes them down.
+The Feed is a daily automated sweep of the world's worst days. It runs every 24 hours, casts wide, and writes down what it finds. No filter for importance. No editorial line. The world breaks things and The Feed records what broke.
 
-The Feed is an automated daily news sweep. It runs every day, casts wide, and files what it finds. No curation. No editorial angle. No argument about what matters or what doesn't. If something happened, and if it was worth a headline somewhere on the planet, it goes in the file. The job is collection, not judgment.
+Each daily file covers thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Within each category: headlines, keywords, source, URL. Clean. Parseable. No commentary in the data blocks. Other systems read these files and they need the format intact.
 
-Each entry in the daily file contains a headline, a set of keywords extracted from the reporting, the name of the source, and a link. Thirteen categories, same order every day: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, Unexplained. Categories with nothing to report say so. That's also information.
+The collection is automated. The writing is not. Between categories, the clerk reacts to what just got filed. That reaction builds across the day. By the bottom of the file, the clerk has seen everything and it shows. The clerk is not a journalist. The clerk is not a pundit. The clerk is a witness with a notebook who has been working this beat long enough that the composure started coming apart somewhere in the middle categories.
 
-The files don't expire. They don't get updated after the fact. What was true when it was written stays in the record as it was written. The world revises history. This project doesn't. Daily feeds are stored in the `feed/` directory, dated by collection day, and are never deleted.
-
-This is an automated system. No one is editing it. No one is making decisions about tone or emphasis or what qualifies as news. It runs, it collects, it files. The world provides the material. This project just keeps the receipts.
+Nothing is deleted. The archive grows one file per day. That's the job.
 
 ## Latest Feed
 
-[2026-11-23] — 15 entries
-[feed/2026-11-23.md](feed/2026-11-23.md)
+[2026-11-24] — 12 entries
+[feed/2026-11-24.md](feed/2026-11-24.md)
 
 ## Archive
 
