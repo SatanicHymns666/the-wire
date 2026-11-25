@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is a daily automated sweep of the world's worst days. It runs every 24 hours, casts wide, and writes down what it finds. No filter for importance. No editorial line. The world breaks things and The Feed records what broke.
+The Feed is a daily automated news sweep. It runs once a day, casts wide, and writes down what it finds. No filter for importance. No editorial line. Just what the world did to itself while most people were looking somewhere else.
 
-Each daily file covers thirteen categories: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Within each category: headlines, keywords, source, URL. Clean. Parseable. No commentary in the data blocks. Other systems read these files and they need the format intact.
+Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Each entry carries a headline, a set of keywords stripped down to the atoms of the event, the source, and a link. Other systems read these files. The format stays clean so they can.
 
-The collection is automated. The writing is not. Between categories, the clerk reacts to what just got filed. That reaction builds across the day. By the bottom of the file, the clerk has seen everything and it shows. The clerk is not a journalist. The clerk is not a pundit. The clerk is a witness with a notebook who has been working this beat long enough that the composure started coming apart somewhere in the middle categories.
+This is not a news service. It does not tell you what anything means. It does not predict what comes next. It witnesses. It records. The world breaks things and The Feed writes it down. That is the entire job.
 
-Nothing is deleted. The archive grows one file per day. That's the job.
+The system runs daily. If the ground moved, it's in the file. If a ship went down, it's in the file. If something got into an arena in Manchester and nobody knows what it is, it's in the file. The archive goes back to late May 2026 and nothing gets deleted.
 
 ## Latest Feed
 
-[2026-11-24] — 12 entries
-[feed/2026-11-24.md](feed/2026-11-24.md)
+[2026-11-25] — 16 entries
+[feed/2026-11-25.md](feed/2026-11-25.md)
 
 ## Archive
 
