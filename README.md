@@ -1,17 +1,17 @@
 # The Feed
 
-The Feed is a daily automated news sweep. It runs once a day, casts wide, and writes down what it finds. No filter for importance. No editorial line. Just what the world did to itself while most people were looking somewhere else.
+The Feed is an automated daily sweep of the news. Every day, without exception, it runs through the same thirteen categories — earthquakes, floods, storms, infrastructure failures, aviation accidents, maritime disasters, violent incidents, public space events, political crises, economic disruptions, health emergencies, space events, and the things that don't fit neatly anywhere else. It records what it finds. It moves on.
 
-Each file is a dated snapshot organized by category: Earth, Water, Sky, Infrastructure, Aviation, Maritime, Violence, Public Spaces, Political, Economic, Health, Space, and Unexplained. Each entry carries a headline, a set of keywords stripped down to the atoms of the event, the source, and a link. Other systems read these files. The format stays clean so they can.
+Each file is a dated snapshot. The format is simple: a headline, a handful of keywords, a source, a link. The data blocks are clean and parseable. No editorializing. No rankings. No filters for importance or geography or how bad it was. If it happened and it was findable, it's in the file.
 
-This is not a news service. It does not tell you what anything means. It does not predict what comes next. It witnesses. It records. The world breaks things and The Feed writes it down. That is the entire job.
+The system does not evaluate the news. It does not rank it. It does not explain what anything means or suggest what you should feel about it. It goes through the same list every day because the same things happen every day. Sometimes nothing happens in a category. That gets noted too. The silences are part of the record.
 
-The system runs daily. If the ground moved, it's in the file. If a ship went down, it's in the file. If something got into an arena in Manchester and nobody knows what it is, it's in the file. The archive goes back to late May 2026 and nothing gets deleted.
+This is not a news site. This is a ledger. The world breaks things and this system writes it down. That's the whole job.
 
 ## Latest Feed
 
-[2026-11-25] — 16 entries
-[feed/2026-11-25.md](feed/2026-11-25.md)
+[2026-11-26] — 14 entries  
+[feed/2026-11-26.md](feed/2026-11-26.md)
 
 ## Archive
 
